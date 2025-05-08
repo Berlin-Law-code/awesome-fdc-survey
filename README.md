@@ -8,13 +8,13 @@ Review of relevant papers on fault detection and correction
 ---
 
 ## 📖 目录
-- [按年份分类](papers-by-year/)
-- [按方法分类](papers-by-method/)
+- [相关文章](papers-by-method/)
   - [统计方法](papers-by-method/statistical-methods.md)
   - [深度学习](papers-by-method/deep-learning.md)
 - [相关资源](resources/)
-  - [会议列表](resources/conferences.md)
-  - [数据集](https://github.com/yourname/awesome-fdc-datasets)（独立仓库）
+  - [数据集](resources/awesome-fdc-datasets)（独立仓库）
+  - [仿真环境](resources/awesome-fdc-simulation)（独立仓库）
+  - [基准测试](resources/awesome-fdc-benchmark)（独立仓库）
 
 ...
 
