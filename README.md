@@ -70,7 +70,7 @@ The new, corrected versions of the dataset are available at [MultiWOZ 2.1 (2019)
 | SOM-DST (BERT-large)* (Kim et al, 2020.09)  | None | None | [Efficient Dialogue State Tracking by Selectively Overwriting Memory](https://arxiv.org/pdf/1911.03906.pdf) | ICRA |
 
 
-### DSTC2 - Dialogue State Tracking
+### RL Fine-tuning Correction
 Clarification of dataset types:
 
 The main results we list here are obtained from pure DSTC2 dataset (ASR n-best).
