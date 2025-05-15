@@ -63,9 +63,9 @@ The new, corrected versions of the dataset are available at [MultiWOZ 2.1 (2019)
 
 > Notice: Models marked with * are open-vocabulary based models.`
 
-| Model           | Key Content | Paper / Source | Remarks |
+| Model           | Key Content | Paper / Source | experiments | Remarks |
 | ------------- | :-----:| :-----:| :-----:|
-| SOM-DST (BERT-large)* (Kim et al, 2020)  | None | [Efficient Dialogue State Tracking by Selectively Overwriting Memory](https://arxiv.org/pdf/1911.03906.pdf) | None |
+| SOM-DST (BERT-large)* (Kim et al, 2020.09)  | None | None | [Efficient Dialogue State Tracking by Selectively Overwriting Memory](https://arxiv.org/pdf/1911.03906.pdf) | ICRA |
 
 
 #### DSTC2 - Dialogue State Tracking
@@ -82,10 +82,9 @@ and **DSTC-cleaned**
 (It is used by the NBT paper and fixes ASR noise and typo during training and include ASR noise during testing,
 The cleaned version is available at [here](https://github.com/Divye02/baby-jarvis/tree/master/data/dstc2)),
 
-
-| Model           | Key Content | Paper / Source | Remarks |
+| Model           | Key Content | Paper / Source | experiments | Remarks |
 | ------------- | :-----:| :-----:| :-----:|
-| SOM-DST (BERT-large)* (Kim et al, 2020)  | None | [Efficient Dialogue State Tracking by Selectively Overwriting Memory](https://arxiv.org/pdf/1911.03906.pdf) | None |
+| SOM-DST (BERT-large)* (Kim et al, 2020.09)  | None | None | [Efficient Dialogue State Tracking by Selectively Overwriting Memory](https://arxiv.org/pdf/1911.03906.pdf) | ICRA |
 
 ## <a name="detail"></a> Dataset Introductions
 See the data details Here or in [Excel File](https://github.com/AtmaHou/Task-Oriented-Dialogue-Dataset-Survey/blob/master/Atma'sDatasetSurvey.xlsx?raw=true)
