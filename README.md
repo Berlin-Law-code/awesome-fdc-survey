@@ -63,19 +63,9 @@ The new, corrected versions of the dataset are available at [MultiWOZ 2.1 (2019)
 
 > Notice: Models marked with * are open-vocabulary based models.`
 
-| Model           | Joint Acc.  |  Slot Acc. | Paper / Source |
+| Model           | Key Content | Paper / Source | Remarks |
 | ------------- | :-----:| :-----:| :-----:|
-| SOM-DST (BERT-large)* (Kim et al, 2020)  | 52.32 | - | [Efficient Dialogue State Tracking by Selectively Overwriting Memory](https://arxiv.org/pdf/1911.03906.pdf) |
-| SOM-DST*  (Kim et al, 2020) | 51.72 | - | [Efficient Dialogue State Tracking by Selectively Overwriting Memory](https://arxiv.org/pdf/1911.03906.pdf) |
-| SAS (Hu et al, 2020)  | 51.03 | 97.20 | [SAS: Dialogue State Tracking via Slot Attention and Slot Information Sharing](https://www.aclweb.org/anthology/2020.acl-main.567.pdf) |
-| MERET (Huang et al, 2020)  | 50.91 | 97.07 | [Meta-Reinforced Multi-Domain State Generator for Dialogue Systems](https://www.aclweb.org/anthology/2020.acl-main.636.pdf)| 
-| NADST* (Le et al, 2020)  | 50.52 | - | [Non-Autoregressive Dialog State Tracking](https://openreview.net/pdf?id=H1e_cC4twS) | 
-| TRADE* (Wu et al, 2019)  | 48.62 | 96.92 | [Transferable Multi-Domain State Generator for Task-Oriented Dialogue Systems](https://arxiv.org/pdf/1905.08743.pdf) |
-| SUMBT (Lee et al, 2019)  | 46.649 | 96.44 |	[SUMBT: Slot-Utterance Matching for Universal and Scalable Belief Tracking](https://www.aclweb.org/anthology/P19-1546) |
-| HyST* (Goel et al, 2019)  | 44.24 | - | [HyST: A Hybrid Approach for Flexible and Accurate Dialogue State Tracking](https://arxiv.org/pdf/1907.00883.pdf) |
-| Neural Reading (Gao et al, 2019)  | 41.10 | - | [Dialog State Tracking: A Neural Reading Comprehension Approach](https://arxiv.org/pdf/1908.01946.pdf) |
-| GLAD (Zhong et al., 2018)  | 35.57  | 95.44 | [Global-Locally Self-Attentive Dialogue State Tracker](https://arxiv.org/abs/1805.09655) |
-| MDBT (Ramadan et al., 2018)	 | 15.57  | 89.53 | [Large-Scale Multi-Domain Belief Tracking with Knowledge Sharing](https://www.aclweb.org/anthology/P18-2069) |
+| SOM-DST (BERT-large)* (Kim et al, 2020)  | None | [Efficient Dialogue State Tracking by Selectively Overwriting Memory](https://arxiv.org/pdf/1911.03906.pdf) | None |
 
 
 #### DSTC2 - Dialogue State Tracking
@@ -93,11 +83,9 @@ and **DSTC-cleaned**
 The cleaned version is available at [here](https://github.com/Divye02/baby-jarvis/tree/master/data/dstc2)),
 
 
-| Model           | Area  |  Food  |  Price  |  Joint  |  Paper / Source |
-| ------------- | :-----:| :-----:| :-----:| :-----:| --- |
-| Liu et al. (2018) | 90 | 84 | 92 | 72 | [Dialogue Learning with Human Teaching and Feedback in End-to-End Trainable Task-Oriented Dialogue Systems](https://arxiv.org/abs/1804.06512) |
-| Neural belief tracker (Mrkšić et al., 2017) | 90 | 84 | 94 | 72 | [Neural Belief Tracker: Data-Driven Dialogue State Tracking](https://arxiv.org/abs/1606.03777) |
-| RNN (Henderson et al., 2014) |﻿92 | 86 | 86 | 69 | [Robust dialog state tracking using delexicalised recurrent neural networks and unsupervised gate](http://svr-ftp.eng.cam.ac.uk/~sjy/papers/htyo14.pdf) |
+| Model           | Key Content | Paper / Source | Remarks |
+| ------------- | :-----:| :-----:| :-----:|
+| SOM-DST (BERT-large)* (Kim et al, 2020)  | None | [Efficient Dialogue State Tracking by Selectively Overwriting Memory](https://arxiv.org/pdf/1911.03906.pdf) | None |
 
 ## <a name="detail"></a> Dataset Introductions
 See the data details Here or in [Excel File](https://github.com/AtmaHou/Task-Oriented-Dialogue-Dataset-Survey/blob/master/Atma'sDatasetSurvey.xlsx?raw=true)
