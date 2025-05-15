@@ -9,8 +9,6 @@ Review of relevant papers on fault detection and correction
 
 <link rel="stylesheet" type="text/css" href="auto-number-title.css" />
 
-# Task-Oriented Dialogue Research Progress Survey
-
 ## 📖 Content
 - ##### [Introduction](#intro)
 - ##### [Updates](#updates)
