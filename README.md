@@ -13,7 +13,9 @@ Review of relevant papers on fault detection and correction
 - ##### [Introduction](#intro)
 - ##### [Updates](#updates)
 - ##### [Call for Contribution](#call)
-- ##### [Datasets Introduction](#detail)
+- ##### [Method Introduction](#method)
+- ##### [Datasets Introduction](#dataset)
+- ##### [Benchmark Introduction](#benchmark)
 - ##### [Acknowledgement](#acknowledgement)
 
 
