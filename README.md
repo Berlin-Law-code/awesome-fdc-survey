@@ -51,11 +51,11 @@ Contributions are welcomed, you are encouraged to:
 - Send me new dataset info
 - Send me new experiment results from published paper or public code implements.
 
-### Dialogue State Tracking
+## <a name="method"></a> Method Introductions
 Dialogue state tacking task aims to predict or give representation of dialogue state,
 which usually contains a goal constraint, a set of requested slots, and the user's dialogue act.
 
-#### [MultiWOZ 2.0](http://dialogue.mi.eng.cam.ac.uk/index.php/corpus/) - Dialogue State Tracking
+### [MultiWOZ 2.0](http://dialogue.mi.eng.cam.ac.uk/index.php/corpus/) - Dialogue State Tracking
 
 Multi-Domain Wizard-of-Oz dataset (MultiWOZ), a fully-labeled collection of human-human written conversations spanning over multiple domains and topics. At a size of 10k dialogues, it is at least one order of magnitude larger than all previous annotated task-oriented corpora.
 
@@ -68,7 +68,7 @@ The new, corrected versions of the dataset are available at [MultiWOZ 2.1 (2019)
 | SOM-DST (BERT-large)* (Kim et al, 2020.09)  | None | None | [Efficient Dialogue State Tracking by Selectively Overwriting Memory](https://arxiv.org/pdf/1911.03906.pdf) | ICRA |
 
 
-#### DSTC2 - Dialogue State Tracking
+### DSTC2 - Dialogue State Tracking
 Clarification of dataset types:
 
 The main results we list here are obtained from pure DSTC2 dataset (ASR n-best).
@@ -86,7 +86,7 @@ The cleaned version is available at [here](https://github.com/Divye02/baby-jarvi
 | ------------- | :-----:| :-----:| :-----:| :-----:|
 | SOM-DST (BERT-large)* (Kim et al, 2020.09)  | None | None | [Efficient Dialogue State Tracking by Selectively Overwriting Memory](https://arxiv.org/pdf/1911.03906.pdf) | ICRA |
 
-## <a name="detail"></a> Dataset Introductions
+## <a name="dataset"></a> Dataset Introductions
 See the data details Here or in [Excel File](https://github.com/AtmaHou/Task-Oriented-Dialogue-Dataset-Survey/blob/master/Atma'sDatasetSurvey.xlsx?raw=true)
 
 Following information is included for each dataset:
@@ -105,7 +105,7 @@ Following information is included for each dataset:
 | ------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Few-shot Slot Tagging Benchmark             | 1\. Dialogue slot tagging dataset for few-shot learning setting<br>2\. First few-shot sequence labeling benchmark (Meta-episode style data format)<br>3\. Also include 5  NER dataset for few-shot sequence labeling evaluation.                                                                                                                                                                                                                                     | Download:https://atmahou.github.io/attachments/ACL2020data.zip<br>Paper: https://arxiv.org/pdf/2006.05702.pdf                                                                         | S                 | 7 dialogue task:<br>Weather,play music, search, add to list, book, moive<br>5 NER task                                                                                    | Yes               | For each task, it contains 100 episodes.<br>Each episode contains a query set (20 samples) and a support set (1-shot & 5-shot)                                                                                                        | Slots                                                                                                                                                                             |
 
-## <a name="detail"></a> Benchmark Introductions
+## <a name="benchmark"></a> Benchmark Introductions
 See the data details Here or in [Excel File](https://github.com/AtmaHou/Task-Oriented-Dialogue-Dataset-Survey/blob/master/Atma'sDatasetSurvey.xlsx?raw=true)
 
 Following information is included for each dataset:
