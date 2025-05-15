@@ -47,13 +47,13 @@ This section records big updates to ease refer (See `./release_detail.md` or cli
 - [Updates 2020.7.30](https://github.com/AtmaHou/Task-Oriented-Dialogue-Dataset-Survey/blob/master/release_detail.md#20200730): Add 3 new datasets, re-claim 6 abnormal NLU results, refine layout.
 
 
-## <a name="call"></a> Call for Contributions
+## <a name="call"></a> Call for Contribution
 Contributions are welcomed, you are encouraged to:
 - Directly pull request
 - Send me new dataset info
 - Send me new experiment results from published paper or public code implements.
 
-## <a name="method"></a> Method Introductions
+## <a name="method"></a> Method Introduction
 Dialogue state tacking task aims to predict or give representation of dialogue state,
 which usually contains a goal constraint, a set of requested slots, and the user's dialogue act.
 
@@ -88,7 +88,7 @@ The cleaned version is available at [here](https://github.com/Divye02/baby-jarvi
 | ------------- | :-----:| :-----:| :-----:| :-----:|
 | SOM-DST (BERT-large)* (Kim et al, 2020.09)  | None | None | [Efficient Dialogue State Tracking by Selectively Overwriting Memory](https://arxiv.org/pdf/1911.03906.pdf) | ICRA |
 
-## <a name="dataset"></a> Dataset Introductions
+## <a name="dataset"></a> Dataset Introduction
 See the data details Here or in [Excel File](https://github.com/AtmaHou/Task-Oriented-Dialogue-Dataset-Survey/blob/master/Atma'sDatasetSurvey.xlsx?raw=true)
 
 Following information is included for each dataset:
@@ -107,7 +107,7 @@ Following information is included for each dataset:
 | ------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Few-shot Slot Tagging Benchmark             | 1\. Dialogue slot tagging dataset for few-shot learning setting<br>2\. First few-shot sequence labeling benchmark (Meta-episode style data format)<br>3\. Also include 5  NER dataset for few-shot sequence labeling evaluation.                                                                                                                                                                                                                                     | Download:https://atmahou.github.io/attachments/ACL2020data.zip<br>Paper: https://arxiv.org/pdf/2006.05702.pdf                                                                         | S                 | 7 dialogue task:<br>Weather,play music, search, add to list, book, moive<br>5 NER task                                                                                    | Yes               | For each task, it contains 100 episodes.<br>Each episode contains a query set (20 samples) and a support set (1-shot & 5-shot)                                                                                                        | Slots                                                                                                                                                                             |
 
-## <a name="benchmark"></a> Benchmark Introductions
+## <a name="benchmark"></a> Benchmark Introduction
 See the data details Here or in [Excel File](https://github.com/AtmaHou/Task-Oriented-Dialogue-Dataset-Survey/blob/master/Atma'sDatasetSurvey.xlsx?raw=true)
 
 Following information is included for each dataset:
