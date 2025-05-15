@@ -83,7 +83,7 @@ and **DSTC-cleaned**
 The cleaned version is available at [here](https://github.com/Divye02/baby-jarvis/tree/master/data/dstc2)),
 
 | Model           | Key Content | Paper / Source | experiments | Remarks |
-| ------------- | :-----:| :-----:| :-----:|
+| ------------- | :-----:| :-----:| :-----:| :-----:|
 | SOM-DST (BERT-large)* (Kim et al, 2020.09)  | None | None | [Efficient Dialogue State Tracking by Selectively Overwriting Memory](https://arxiv.org/pdf/1911.03906.pdf) | ICRA |
 
 ## <a name="detail"></a> Dataset Introductions
