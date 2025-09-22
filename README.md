@@ -73,6 +73,7 @@ HITL mechanisms enhance system adaptability in complex tasks through supervision
 > Notice: None
 
 | Name | Detection | Correction | Tools | Paper / Source |
+| ------------- | :-----:| :-----:| :-----:| :-----:|
 | SOM-DST (BERT-large)* (Kim et al, 2020.09)  | None | None | [Efficient Dialogue State Tracking by Selectively Overwriting Memory](https://arxiv.org/pdf/1911.03906.pdf) | ICRA |
 
 ### Model in the Loop
@@ -81,6 +82,7 @@ MITL mechanism deeply integrates world models, multimodal perception, and adapti
 > Notice: None.`
 
 | Name | Detection | Correction | Principle | Paper / Source |
+| ------------- | :-----:| :-----:| :-----:| :-----:|
 | SOM-DST (BERT-large)* (Kim et al, 2020.09)  | [x] | [√] | None | [Efficient Dialogue State Tracking by Selectively Overwriting Memory](https://arxiv.org/pdf/1911.03906.pdf) | ICRA |
 
 ### RL Fine-tuning Correction
@@ -89,7 +91,7 @@ Researchers are shifting their focus toward reinforcement fine-tuning for VLA ar
 Clarification of dataset types:
 
 | Name | VLM/VLA | Strategy | Paper / Source |
-| ------------- | :-----:| :-----:| :-----:| :-----:|
+| ------------- | :-----:| :-----:| :-----:|
 | GRAPE (Kim et al, 2020.09)  | OpenVLA | TPO | [Efficient Dialogue State Tracking by Selectively Overwriting Memory](https://arxiv.org/pdf/1911.03906.pdf) |
 
 ## <a name="dataset"></a> Datasets and Benchmarks
@@ -110,6 +112,7 @@ Following information is included for each dataset:
 > Tips: The table below may not be displayed completely, **scroll right** to see more~
 
 | Name | Introduction | Links | Modalities | Annotations | Task Types | Scale & Diversity | Key Papers Using This Dataset |
+| ------------- | :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:|
 | FAC | None | None | None | None | None | None | None |
 
 ### Benchmarks Introduction
@@ -126,6 +129,7 @@ Following information is included for each dataset:
 > Tips: The table below may not be displayed completely, **scroll right** to see more~
 
 | Name | Introduction | Links | Modalities | Evaluation Task Types  | Evaluation | Scale & Diversity | Baseline Results |
+| ------------- | :-----:| :-----:| :-----:| :-----:| :-----:| :-----:|
 | Few-shot Slot Tagging Benchmark | None | None | None | None | None | None |
 
 
