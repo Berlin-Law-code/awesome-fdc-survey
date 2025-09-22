@@ -59,10 +59,20 @@ Through a comprehensive review of the literature on failure classification, we d
 | SOM-DST (BERT-large)* (Kim et al, 2020.09) | None | [Efficient Dialogue State Tracking by Selectively Overwriting Memory](https://arxiv.org/pdf/1911.03906.pdf) |
 
 ### Root Causes Perspective
+| Name | Failure Classification | Paper / Source |
+| ------------- | :-----:| :-----:| :-----:| :-----:|
+| SOM-DST (BERT-large)* (Kim et al, 2020.09) | None | [Efficient Dialogue State Tracking by Selectively Overwriting Memory](https://arxiv.org/pdf/1911.03906.pdf) |
 
 ### Behavioral Manifestation Perspective
+| Name | Failure Classification | Paper / Source |
+| ------------- | :-----:| :-----:| :-----:| :-----:|
+| SOM-DST (BERT-large)* (Kim et al, 2020.09) | None | [Efficient Dialogue State Tracking by Selectively Overwriting Memory](https://arxiv.org/pdf/1911.03906.pdf) |
 
 ### Human-Robot Interaction Perspective
+| Name | Failure Classification | Paper / Source |
+| ------------- | :-----:| :-----:| :-----:| :-----:|
+| SOM-DST (BERT-large)* (Kim et al, 2020.09) | None | [Efficient Dialogue State Tracking by Selectively Overwriting Memory](https://arxiv.org/pdf/1911.03906.pdf) |
+
 
 ## <a name="method"></a> Methods Introduction
 We categorize existing failure detection and correction methods into two core paradigms: Human-in-the-Loop (HITL) and Model-in-theLoop (MITL). 
