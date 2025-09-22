@@ -111,36 +111,25 @@ Constructing failure datasets and benchmarks for robotic manipulation tasks cons
 
 Following information is included for each dataset:
 - Name
-- Introduction
-- Link (Download & Paper)
-- Modalities
-- Annotations
-- Task Types
-- Scale and Diversity
-- Key Papers Using This Dataset
+- Paper / Source
 
 > Tips: The table below may not be displayed completely, **scroll right** to see more~
 
-| Name | Introduction | Links | Modalities | Annotations | Task Types | Scale & Diversity | Key Papers Using This Dataset |
-| ------------- | :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:|
-| FAC | None | None | None | None | None | None | None |
+| Name | Paper / Source |
+| ------------- | :-----:|
+| FAC | None |
 
 ### Benchmarks Introduction
 
 Following information is included for each dataset:
 - Name
-- Introduction
-- Link (Download & Paper)
-- Modalities
-- Evaluation Task Types
-- Scale and Diversity
-- Baseline Results
+- Paper / Source
 
 > Tips: The table below may not be displayed completely, **scroll right** to see more~
 
-| Name | Introduction | Links | Modalities | Evaluation Task Types | Scale & Diversity | Baseline Results |
-| ------------- | :-----:| :-----:| :-----:| :-----:| :-----:| :-----:|
-| Few-shot Slot Tagging Benchmark | None | None | None | None | None | None |
+| Name | Paper / Source |
+| ------------- | :-----:|
+| Few-shot Slot Tagging Benchmark | None |
 
 
 ## <a name="acknowledgment"></a>Acknowledgment
