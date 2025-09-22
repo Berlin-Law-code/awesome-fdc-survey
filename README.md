@@ -52,26 +52,31 @@ Contributions are welcomed, you are encouraged to:
 - Send me new experiment results from published paper or public code implements.
 
 ## <a name="classification"></a>  Failure Classification
-Dialogue state tacking task aims to predict or give representation of dialogue state,
-which usually contains a goal constraint, a set of requested slots, and the user's dialogue act.
+Review the failure classification methods in existing studies. By summarizing the literature from multiple viewpoints, we identify four principal paradigms for categorizing robotic failures: 
+
+### System-Level Perspective
+| Model | Failure Classification | Paper / Source |
+| ------------- | :-----:| :-----:| :-----:| :-----:|
+| SOM-DST (BERT-large)* (Kim et al, 2020.09) | None | [Efficient Dialogue State Tracking by Selectively Overwriting Memory](https://arxiv.org/pdf/1911.03906.pdf) |
+
+### Root Causes Perspective
+
+### Behavioral Manifestation Perspective
+
+### Human-Robot Interaction Perspective
 
 ## <a name="method"></a> Method Introduction
 Dialogue state tacking task aims to predict or give representation of dialogue state,
 which usually contains a goal constraint, a set of requested slots, and the user's dialogue act.
 
 ### Human in the Loop
-Dialogue state tacking task aims to predict or give representation of dialogue state,
-which usually contains a goal constraint, a set of requested slots, and the user's dialogue act.
-
-#### [MultiWOZ 2.0](http://dialogue.mi.eng.cam.ac.uk/index.php/corpus/) - Dialogue State Tracking
-
 Multi-Domain Wizard-of-Oz dataset (MultiWOZ), a fully-labeled collection of human-human written conversations spanning over multiple domains and topics. At a size of 10k dialogues, it is at least one order of magnitude larger than all previous annotated task-oriented corpora.
 
 The new, corrected versions of the dataset are available at [MultiWOZ 2.1 (2019)](https://arxiv.org/abs/1907.01669), [MultiWOZ 2.2 (2020)](https://www.aclweb.org/anthology/2020.nlp4convai-1.13.pdf). 
 
 > Notice: Models marked with * are open-vocabulary based models.`
 
-| Model           | Key Content | Paper / Source | experiments | Remarks |
+| Model | Key Content | Paper / Source | experiments | Remarks |
 | ------------- | :-----:| :-----:| :-----:| :-----:|
 | SOM-DST (BERT-large)* (Kim et al, 2020.09)  | None | None | [Efficient Dialogue State Tracking by Selectively Overwriting Memory](https://arxiv.org/pdf/1911.03906.pdf) | ICRA |
 
