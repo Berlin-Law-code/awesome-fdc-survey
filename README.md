@@ -2,8 +2,8 @@
 Review of relevant papers on fault detection and correction
 # Awesome Fault Detection and Correction [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> 精选故障检测与修复领域的重要论文、代码与资源，持续更新中  
-> 欢迎贡献！请阅读 [CONTRIBUTING.md](CONTRIBUTING.md)
+> A curated collection of seminal papers, codebases, and resources in the field of failure detection and correction, continuously updated.  
+> Contributions are welcome—please refer to [CONTRIBUTING.md](CONTRIBUTING.md)
 > 
 ---
 
