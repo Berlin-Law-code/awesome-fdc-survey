@@ -138,7 +138,7 @@ Following information is included for each dataset:
 
 > Tips: The table below may not be displayed completely, **scroll right** to see more~
 
-| Name | Introduction | Links | Modalities | Evaluation Task Types  | Evaluation | Scale & Diversity | Baseline Results |
+| Name | Introduction | Links | Modalities | Evaluation Task Types | Scale & Diversity | Baseline Results |
 | ------------- | :-----:| :-----:| :-----:| :-----:| :-----:| :-----:|
 | Few-shot Slot Tagging Benchmark | None | None | None | None | None | None |
 
