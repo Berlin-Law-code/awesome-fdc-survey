@@ -53,25 +53,9 @@ Contributions are welcomed, you are encouraged to:
 ## <a name="classification"></a>  Failure Classification
 Through a comprehensive review of the literature on failure classification, we distill four principal paradigms for categorizing robotic failures, derived from multiple analytical perspectives.
 
-### System-Level Perspective
-| Name | Failure Classification | Paper / Source |
+| Paper | Published in | Code/Project |
 | ------------- | :-----:| :-----:|
-| SOM-DST (BERT-large)* (Kim et al, 2020.09) | None | [Efficient Dialogue State Tracking by Selectively Overwriting Memory](https://arxiv.org/pdf/1911.03906.pdf) |
-
-### Root Causes Perspective
-| Name | Failure Classification | Paper / Source |
-| ------------- | :-----:| :-----:|
-| SOM-DST (BERT-large)* (Kim et al, 2020.09) | None | [Efficient Dialogue State Tracking by Selectively Overwriting Memory](https://arxiv.org/pdf/1911.03906.pdf) |
-
-### Behavioral Manifestation Perspective
-| Name | Failure Classification | Paper / Source |
-| ------------- | :-----:| :-----:|
-| SOM-DST (BERT-large)* (Kim et al, 2020.09) | None | [Efficient Dialogue State Tracking by Selectively Overwriting Memory](https://arxiv.org/pdf/1911.03906.pdf) |
-
-### Human-Robot Interaction Perspective
-| Name | Failure Classification | Paper / Source |
-| ------------- | :-----:| :-----:|
-| SOM-DST (BERT-large)* (Kim et al, 2020.09) | None | [Efficient Dialogue State Tracking by Selectively Overwriting Memory](https://arxiv.org/pdf/1911.03906.pdf) |
+| [Efficient Dialogue State Tracking by Selectively Overwriting Memory](https://arxiv.org/pdf/1911.03906.pdf) | CVPR2025 | [Code](https://github.com/clovaai/som-dst) |
 
 
 ## <a name="method"></a> Methods Introduction
@@ -82,27 +66,30 @@ HITL mechanisms enhance system adaptability in complex tasks through supervision
 
 > Notice: None
 
-| Name | Detection | Correction | Tools | Paper / Source |
-| ------------- | :-----:| :-----:| :-----:| :-----:|
-| SOM-DST (BERT-large)* (Kim et al, 2020.09)  | None | None | [Efficient Dialogue State Tracking by Selectively Overwriting Memory](https://arxiv.org/pdf/1911.03906.pdf) | ICRA |
+| Paper | Published in | Code/Project |
+| ------------- | :-----:| :-----:|
+| [Efficient Dialogue State Tracking by Selectively Overwriting Memory](https://arxiv.org/pdf/1911.03906.pdf) | CVPR2025 | [Code](https://github.com/clovaai/som-dst) |
 
 ### Model in the Loop
 MITL mechanism deeply integrates world models, multimodal perception, and adaptive algorithms, enabling the system to autonomously form a closed feedback loop of perception, planning, execution and verification. By continuously monitoring task states, predicting potential risks, and dynamically adjusting strategies, the MITL mechanism aims to significantly reduce reliance on external intervention, thereby enhancing autonomy and efficiency. 
 
 > Notice: None.`
 
-| Name | Detection | Correction | Principle | Paper / Source |
-| ------------- | :-----:| :-----:| :-----:| :-----:|
-| SOM-DST (BERT-large)* (Kim et al, 2020.09)  | [x] | [√] | None | [Efficient Dialogue State Tracking by Selectively Overwriting Memory](https://arxiv.org/pdf/1911.03906.pdf) | ICRA |
+| Paper | Published in | Code/Project |
+| ------------- | :-----:| :-----:|
+| [Efficient Dialogue State Tracking by Selectively Overwriting Memory](https://arxiv.org/pdf/1911.03906.pdf) | CVPR2025 | [Code](https://github.com/clovaai/som-dst) |
+
 
 ### RL Fine-tuning Correction
 Researchers are shifting their focus toward reinforcement fine-tuning for VLA architectures to autonomously learn and optimize through trial-and-error and reward mechanisms, thereby spontaneously developing advanced reasoning abilities such as CoT, selfverification, and failure correction, and even exhibiting emergent capabilities to achieve autonomous policy optimization, significantly enhancing their robustness and adaptability. 
 
 Clarification of dataset types:
 
-| Name | VLM/VLA | Strategy | Paper / Source |
-| ------------- | :-----:| :-----:| :-----:|
-| GRAPE (Kim et al, 2020.09)  | OpenVLA | TPO | [Efficient Dialogue State Tracking by Selectively Overwriting Memory](https://arxiv.org/pdf/1911.03906.pdf) |
+| Paper | Published in | Code/Project |
+| ------------- | :-----:| :-----:|
+| [Efficient Dialogue State Tracking by Selectively Overwriting Memory](https://arxiv.org/pdf/1911.03906.pdf) | CVPR2025 | [Code](https://github.com/clovaai/som-dst) |
+
+
 
 ## <a name="dataset"></a> Datasets and Benchmarks
 Constructing failure datasets and benchmarks for robotic manipulation tasks constitutes a critical prerequisite for enabling effective failure detection and correction. The following section provides a systematic overview of the datasets and benchmarking frameworks in this domain.
