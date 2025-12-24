@@ -56,6 +56,22 @@ Through a comprehensive review of the literature on failure classification, we d
 | Paper | Published in | Code/Project |
 | ------------- | :-----:| :-----:|
 | [Efficient Dialogue State Tracking by Selectively Overwriting Memory](https://arxiv.org/pdf/1911.03906.pdf) | CVPR2025 | [Code](https://github.com/clovaai/som-dst) |
+| Condition monitoring and fault diagnosis of industrial robots: A review | Sci China Tech Sci 2025 | - |
+| Can’t touch this: Real-time, safe motion planning and control for manipulators under uncertainty | IEEE T-RO 2025 | - |
+| Object misdetection, pose estimation and failure propagation in robotic manipulation | IEEE T-RO | - |
+| Reflect: Summarizing robot experiences for failure explanation and correction | CoRL 2023 | https://github.com/real-stanford/reflect |
+| Robot error awareness through human reactions | arXiv 2025 | - |
+| Distilling and retrieving generalizable knowledge for robot manipulation via language corrections | ICRA 2024 | - |
+| Robotic manipulation via imitation learning: Taxonomy, evolution, benchmark, and challenges | arXiv 2025 | - |
+| Reinforcement learning in robotics: A survey | IJRR 2013 | - |
+| Reflexion: Language agents with verbal reinforcement learning | NeurIPS 2023 | https://github.com/noahshinn/reflexion |
+| Vision-language-action models in robotic manipulation: A systematic review | arXiv 2025 | - |
+| Do As I Can, Not As I Say: Grounding Language in Robotic Affordances | arXiv 2022 | https://github.com/google-research/google-research/tree/master/saycan |
+| Talk-to-Resolve: Combining scene understanding and spatial dialogue to resolve granular task ambiguity | RAS 2022 | - |
+| RAIDER: Tool-equipped LLM agent for robotic action issue detection, explanation and recovery | arXiv 2025 | - |
+| RACER: Rich language-guided failure recovery policies for imitation learning | arXiv 2024 | https://github.com/UT-Austin-RPL/RACER |
+| Recover: A neuro-symbolic framework for failure detection and recovery | IROS 2024 | - |
+
 
 
 ## <a name="method"></a> Methods Introduction
