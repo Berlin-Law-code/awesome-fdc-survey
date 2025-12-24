@@ -104,9 +104,10 @@ Following information is included for each dataset:
 
 > Tips: The table below may not be displayed completely, **scroll right** to see more~
 
-| Name | Task Types | Scale and Diversity | Paper / Source |
-| ------------- | :-----:| :-----:| :-----:|
-| FAC | None | None | None |
+| Paper | Published in | Code/Project |
+| ------------- | :-----:| :-----:|
+| [Efficient Dialogue State Tracking by Selectively Overwriting Memory](https://arxiv.org/pdf/1911.03906.pdf) | CVPR2025 | [Code](https://github.com/clovaai/som-dst) |
+
 
 ### Benchmarks Introduction
 
@@ -118,9 +119,10 @@ Following information is included for each dataset:
 
 > Tips: The table below may not be displayed completely, **scroll right** to see more~
 
-| Name | Evaluation Task Types | Scale and Diversity | Paper / Source |
-| ------------- | :-----:| :-----:| :-----:|
-| Few-shot Slot Tagging Benchmark | None | None | None |
+| Paper | Published in | Code/Project |
+| ------------- | :-----:| :-----:|
+| [Efficient Dialogue State Tracking by Selectively Overwriting Memory](https://arxiv.org/pdf/1911.03906.pdf) | CVPR2025 | [Code](https://github.com/clovaai/som-dst) |
+
 
 
 ## <a name="acknowledgment"></a>Acknowledgment
