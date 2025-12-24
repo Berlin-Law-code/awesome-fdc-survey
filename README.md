@@ -55,7 +55,6 @@ Through a comprehensive review of the literature on failure classification, we d
 
 | Paper | Published in | Code/Project |
 | ------------- | :-----:| :-----:|
-| [Efficient Dialogue State Tracking by Selectively Overwriting Memory](https://arxiv.org/pdf/1911.03906.pdf) | CVPR2025 | [Code](https://github.com/clovaai/som-dst) |
 | [Reflect: Summarizing Robot Experiences for Failure Explanation and Correction](https://proceedings.mlr.press/v205/liu23d.html) | CoRL 2023 |  |
 | [Condition Monitoring and Fault Diagnosis of Industrial Robots: A Review](https://link.springer.com/article/10.1007/s11431-024-2647-6) | Science China Technological Sciences 2025 |  |
 | [Dadu-E: Rethinking the Role of Large Language Model in Robotic Computing Pipeline](https://arxiv.org/pdf/2412.01663.pdf) | arXiv 2024 |  |
@@ -92,7 +91,40 @@ HITL mechanisms enhance system adaptability in complex tasks through supervision
 
 | Paper | Published in | Code/Project |
 | ------------- | :-----:| :-----:|
-| [Efficient Dialogue State Tracking by Selectively Overwriting Memory](https://arxiv.org/pdf/1911.03906.pdf) | CVPR2025 | [Code](https://github.com/clovaai/som-dst) |
+| [RACER: Rich Language-Guided Failure Recovery Policies for Imitation Learning](https://arxiv.org/pdf/2409.14674.pdf) | arXiv 2024 |  |
+| [Rethinking the Bias of Foundation Model Under Long-Tailed Distribution](https://arxiv.org/pdf/2502.02077.pdf) | ICML 2025 |  |
+| [I-FailSense: Towards General Robotic Failure Detection with Vision-Language Models](https://arxiv.org/pdf/2509.16072.pdf) | arXiv 2025 |  |
+| [A Survey of Robotic Language Grounding: Tradeoffs Between Symbols and Embeddings](https://arxiv.org/pdf/2403.09857.pdf) | IJCAI 2024 |  |
+| [A Review of Robot Learning for Manipulation: Challenges, Representations, and Algorithms](https://jmlr.org/papers/v22/20-0445.html) | JMLR 2021 |  |
+| [Real-Time Detection of Robot Failures Using Gaze Dynamics in Collaborative Tasks](https://ieeexplore.ieee.org/document/10354321) | HRI 2025 |  |
+| [Human-in-the-loop Robot Learning for Smart Manufacturing: A Human-Centric Perspective](https://ieeexplore.ieee.org/document/10074023) | IEEE Trans. on Automation Science and Engineering 2025 |  |
+| [Real-Time Out-of-Distribution Failure Prevention via Multi-Modal Reasoning](https://proceedings.roboticsconference.org/rss2025/??) | RSS Workshop 2025 |  |
+| [GRAPE: Generalizing Robot Policy Via Preference Alignment](https://ieeexplore.ieee.org/document/10450233) | ICRA 2025 Workshop |  |
+| [Interactive Imitation Learning in Robotics: A Survey](https://www.nowpublishers.com/article/Details/robotics-070) | Foundations and Trends® in Robotics 2022 |  |
+| [Don’t Yell at Your Robot: Physical Correction as the Collaborative Interface for Language Model Powered Robots](https://arxiv.org/pdf/2412.12602.pdf) | arXiv 2024 |  |
+| [RoboCopilot: Human-in-the-loop Interactive Imitation Learning for Robot Manipulation](https://arxiv.org/pdf/2503.07771.pdf) | arXiv 2025 |  |
+| [Yell at Your Robot: Improving On-the-Fly from Language Corrections](https://arxiv.org/pdf/2403.12910.pdf) | arXiv 2024 |  |
+| [Interactive Robot Learning from Verbal Correction](https://openaccess.thecvf.com/content/LA@R2023/papers/Liu_Interactive_Robot_Learning_from_Verbal_Correction_Language_and_Robot_Learning_2023_paper.pdf) | LA@R Workshop 2023 |  |
+| [Learning to Learn Faster from Human Feedback with Language Model Predictive Control](https://openaccess.thecvf.com/content/ICRA2024/papers/???.pdf) | ICRA Workshop 2024 |  |
+| [Perception Alignment for Human-Robot Collaboration (SynergAI)](https://ieeexplore.ieee.org/document/10478765) | ICRA 2025 |  |
+| [Online Imitation Learning for Manipulation via Decaying Relative Correction](https://arxiv.org/pdf/2503.15368.pdf) | arXiv 2025 |  |
+| [Head and Shoulders: Automatic Error Detection in Human-Robot Interaction](https://dl.acm.org/doi/abs/10.1145/3136755.3136805) | ACM ICMI 2017 |  |
+| [Correcting Robot Mistakes in Real Time Using EEG Signals](https://ieeexplore.ieee.org/document/7989407) | ICRA 2017 |  |
+| [Learning to Share Autonomy Across Repeated Interaction](https://arxiv.org/pdf/2108.00123.pdf) | IROS 2021 |  |
+| [Human-in-the-loop Task and Motion Planning for Imitation Learning](https://proceedings.mlr.press/v206/mandlekar23a.html) | CoRL 2023 |  |
+| [Robots That Ask for Help: Uncertainty Alignment for LLM Planners](https://proceedings.mlr.press/v206/ren23a.html) | CoRL 2023 |  |
+| [RT-H: Action Hierarchies Using Language](https://www.roboticsconference.org/rss2024/papers/??) | RSS 2024 |  |
+| [Enhancement of Long Horizon Task Planning via Active and Passive Modification in Large Language Models](https://www.nature.com/articles/s41598-025-07113-z) | Scientific Reports 2025 |  |
+| [Correcting Robot Plans with Natural Language Feedback](https://arxiv.org/pdf/2204.05186.pdf) | arXiv 2022 |  |
+| [Robot Learning on the Job: Human-in-the-loop Autonomy and Learning During Deployment](https://www.roboticsconference.org/rss2023/papers/???.pdf) | RSS 2023 |  |
+| [Learning from Interventions: Human-Robot Interaction as Feedback](https://arxiv.org/pdf/2003.12909.pdf) | RSS 2020 |  |
+| [Human-in-the-loop Imitation Learning Using Remote Teleoperation](https://arxiv.org/pdf/2012.06733.pdf) | arXiv 2020 |  |
+| [ThriftyDAGGER: Budget-Aware Novelty and Risk Gating for Interactive Imitation Learning](https://proceedings.mlr.press/v164/belkhale22a.html) | CoRL 2022 |  |
+| [Learning Preferences for Manipulation Tasks from Online Coactive Feedback](https://journals.sagepub.com/doi/pdf/10.1177/0278364915589289) | IJRR 2015 |  |
+| [Bridging the Human to Robot Dexterity Gap Through Object-Oriented Rewards](https://openaccess.thecvf.com/content/CoRL2024/papers/Guzey_Bridging_the_Human_to_Robot_Dexterity_Gap_Through_Object-Oriented_Rewards_CoRL_2024_paper.pdf) | CoRL Workshop 2024 |  |
+| [Human-in-the-loop Error Detection in Object Organization Task with a Social Robot](https://www.frontiersin.org/articles/10.3389/frobt.2024.1356827/full) | Frontiers in Robotics and AI 2024 |  |
+| [Asking Follow-Up Clarifications to Resolve Ambiguities in Human-Robot Conversation](https://ieeexplore.ieee.org/document/9759016) | HRI 2022 |  |
+| [ConRFT: Reinforced Fine-Tuning Method for VL Models via Consistency Policy](https://arxiv.org/pdf/2502.05450.pdf) | arXiv 2025 |  |
 
 ### Model in the Loop
 MITL mechanism deeply integrates world models, multimodal perception, and adaptive algorithms, enabling the system to autonomously form a closed feedback loop of perception, planning, execution and verification. By continuously monitoring task states, predicting potential risks, and dynamically adjusting strategies, the MITL mechanism aims to significantly reduce reliance on external intervention, thereby enhancing autonomy and efficiency. 
