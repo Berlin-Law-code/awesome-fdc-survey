@@ -55,7 +55,7 @@ Through a comprehensive review of the literature on failure classification, we d
 
 | Paper | Published in | Code/Project |
 | ------------- | :-----:| :-----:|
-| [Reflect: Summarizing Robot Experiences for Failure Explanation and Correction](https://proceedings.mlr.press/v205/liu23d.html) | CoRL 2023 |  |
+| [Reflect: Summarizing Robot Experiences for Failure Explanation and Correction](https://arxiv.org/pdf/2306.15724) | CoRL 2023 | https://robot-reflect.github.io/ |
 | [Condition Monitoring and Fault Diagnosis of Industrial Robots: A Review](https://link.springer.com/article/10.1007/s11431-024-2647-6) | Science China Technological Sciences 2025 |  |
 | [Dadu-E: Rethinking the Role of Large Language Model in Robotic Computing Pipeline](https://arxiv.org/pdf/2412.01663.pdf) | arXiv 2024 |  |
 | [Can’t Touch This: Real-Time, Safe Motion Planning and Control for Manipulators Under Uncertainty](https://ieeexplore.ieee.org/document/10457953) | IEEE T-RO 2025 |  |
