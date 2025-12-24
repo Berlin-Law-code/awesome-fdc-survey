@@ -229,6 +229,7 @@ Following information is included for each dataset:
 > Tips: The table below may not be displayed completely, **scroll right** to see more~
 
 | Paper | Published in | Code/Project |
+| ------------- | :-----:| :-----:|
 | [A Multimodal Handover Failure Detection Dataset and Baselines](https://arxiv.org/pdf/2402.18319.pdf) | ICRA 2024 | [Code](https://github.com/sthoduka/handover_failure_detection) |
 | [Data-Agnostic Robotic Long-Horizon Manipulation with Vision-Language-Guided Closed-Loop Feedback](https://arxiv.org/pdf/2503.21969.pdf) | arXiv 2025 | [Code](https://github.com/Ghiara/DAHLIA) |
 | [Open X-Embodiment: Robotic Learning Datasets and RT-X Models](https://arxiv.org/pdf/2310.08864.pdf) | ICRA 2024 | [Project](https://github.com/google-deepmind/open_x_embodiment) |
@@ -238,6 +239,7 @@ Following information is included for each dataset:
 | [REFLEX Dataset: A Multimodal Dataset of Human Reactions to Robot Failures and Explanations](https://arxiv.org/pdf/2502.14185.pdf) | HRI 2025 | [Project](https://github.com/andreasnaoum/reflex-viz) |
 | [Scaling Up and Distilling Down: Language-Guided Robot Skill Acquisition](https://proceedings.mlr.press/v229/ha23a/ha23a.pdf) | CoRL 2023 | [Project](https://www.cs.columbia.edu/~huy/scalingup/) |
 | [IntervenGen: Interventional Data Generation for Robust and Data-Efficient Robot Imitation Learning](https://arxiv.org/pdf/2405.01472.pdf) | IROS 2024 | [Project](https://sites.google.com/view/intervengen2024) |
+
 
 
 
