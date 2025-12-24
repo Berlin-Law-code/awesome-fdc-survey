@@ -91,21 +91,21 @@ HITL mechanisms enhance system adaptability in complex tasks through supervision
 
 | Paper | Published in | Code/Project |
 | ------------- | :-----:| :-----:|
-| [RACER: Rich Language-Guided Failure Recovery Policies for Imitation Learning](https://arxiv.org/pdf/2409.14674.pdf) | arXiv 2024 |  |
-| [Rethinking the Bias of Foundation Model Under Long-Tailed Distribution](https://arxiv.org/pdf/2502.02077.pdf) | ICML 2025 |  |
-| [I-FailSense: Towards General Robotic Failure Detection with Vision-Language Models](https://arxiv.org/pdf/2509.16072.pdf) | arXiv 2025 |  |
-| [A Survey of Robotic Language Grounding: Tradeoffs Between Symbols and Embeddings](https://arxiv.org/pdf/2403.09857.pdf) | IJCAI 2024 |  |
-| [A Review of Robot Learning for Manipulation: Challenges, Representations, and Algorithms](https://jmlr.org/papers/v22/20-0445.html) | JMLR 2021 |  |
-| [Real-Time Detection of Robot Failures Using Gaze Dynamics in Collaborative Tasks](https://ieeexplore.ieee.org/document/10354321) | HRI 2025 |  |
-| [Human-in-the-loop Robot Learning for Smart Manufacturing: A Human-Centric Perspective](https://ieeexplore.ieee.org/document/10074023) | IEEE Trans. on Automation Science and Engineering 2025 |  |
-| [Real-Time Out-of-Distribution Failure Prevention via Multi-Modal Reasoning](https://proceedings.roboticsconference.org/rss2025/??) | RSS Workshop 2025 |  |
-| [GRAPE: Generalizing Robot Policy Via Preference Alignment](https://ieeexplore.ieee.org/document/10450233) | ICRA 2025 Workshop |  |
-| [Interactive Imitation Learning in Robotics: A Survey](https://www.nowpublishers.com/article/Details/robotics-070) | Foundations and Trends® in Robotics 2022 |  |
+| [RACER: Rich Language-Guided Failure Recovery Policies for Imitation Learning](https://arxiv.org/pdf/2409.14674.pdf) | arXiv 2024 | https://rich-language-failure-recovery.github.io/ |
+| [Rethinking the Bias of Foundation Model Under Long-Tailed Distribution](https://arxiv.org/pdf/2501.15955) | ICML 2025 |  |
+| [I-FailSense: Towards General Robotic Failure Detection with Vision-Language Models](https://arxiv.org/pdf/2509.16072.pdf) | arXiv 2025 | https://clemgris.github.io/I-FailSense/ |
+| [A Survey of Robotic Language Grounding: Tradeoffs Between Symbols and Embeddings](https://arxiv.org/pdf/2405.13245) | IJCAI 2024 |  |
+| [A Review of Robot Learning for Manipulation: Challenges, Representations, and Algorithms](https://www.jmlr.org/papers/v22/19-804.html) | JMLR 2021 |  |
+| [Real-Time Detection of Robot Failures Using Gaze Dynamics in Collaborative Tasks](https://ieeexplore.ieee.org/abstract/document/10973922) | HRI 2025 |  |
+| [Human-in-the-loop Robot Learning for Smart Manufacturing: A Human-Centric Perspective](https://ieeexplore.ieee.org/abstract/document/10836893) | IEEE Trans. on Automation Science and Engineering 2025 |  |
+| [Real-Time Out-of-Distribution Failure Prevention via Multi-Modal Reasoning](https://arxiv.org/pdf/2505.10547) | RSS Workshop 2025 | https://milanganai.github.io/fortress |
+| [GRAPE: Generalizing Robot Policy Via Preference Alignment](https://arxiv.org/pdf/2411.19309) | ICRA 2025 Workshop |  |
+| [Interactive Imitation Learning in Robotics: A Survey](https://www.nowpublishers.com/article/Details/ROB-072) | Foundations and Trends® in Robotics 2022 |  |
 | [Don’t Yell at Your Robot: Physical Correction as the Collaborative Interface for Language Model Powered Robots](https://arxiv.org/pdf/2412.12602.pdf) | arXiv 2024 |  |
 | [RoboCopilot: Human-in-the-loop Interactive Imitation Learning for Robot Manipulation](https://arxiv.org/pdf/2503.07771.pdf) | arXiv 2025 |  |
-| [Yell at Your Robot: Improving On-the-Fly from Language Corrections](https://arxiv.org/pdf/2403.12910.pdf) | arXiv 2024 |  |
-| [Interactive Robot Learning from Verbal Correction](https://openaccess.thecvf.com/content/LA@R2023/papers/Liu_Interactive_Robot_Learning_from_Verbal_Correction_Language_and_Robot_Learning_2023_paper.pdf) | LA@R Workshop 2023 |  |
-| [Learning to Learn Faster from Human Feedback with Language Model Predictive Control](https://openaccess.thecvf.com/content/ICRA2024/papers/???.pdf) | ICRA Workshop 2024 |  |
+| [Yell at Your Robot: Improving On-the-Fly from Language Corrections](https://arxiv.org/pdf/2403.12910.pdf) | arXiv 2024 | https://yay-robot.github.io/ |
+| [Interactive Robot Learning from Verbal Correction](https://arxiv.org/pdf/2310.17555) | LA@R Workshop 2023 | https://ut-austin-rpl.github.io/olaf/ |
+| [Learning to Learn Faster from Human Feedback with Language Model Predictive Control](https://arxiv.org/pdf/2402.11450) | ICRA Workshop 2024 | https://robot-teaching.github.io/ |
 | [Perception Alignment for Human-Robot Collaboration (SynergAI)](https://ieeexplore.ieee.org/document/10478765) | ICRA 2025 |  |
 | [Online Imitation Learning for Manipulation via Decaying Relative Correction](https://arxiv.org/pdf/2503.15368.pdf) | arXiv 2025 |  |
 | [Head and Shoulders: Automatic Error Detection in Human-Robot Interaction](https://dl.acm.org/doi/abs/10.1145/3136755.3136805) | ACM ICMI 2017 |  |
