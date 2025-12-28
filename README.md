@@ -2,16 +2,17 @@
 A curated collection of seminal papers, codebases, datasets and benchmarks in the field of failure detection and recovery, continuously updated.
 
 ## 📖 Content
-- ###### [Introduction](#intro)
-- ###### [Failure Classification](#classification)
-- ###### [Methods Introduction](#method)
-- ###### [Datasets and Benchmarks](#dataset)
-- ###### [Updates](#updates)
-- ###### [Call for Contribution](#call)
-- ###### [Refer to this repo](#refer)
-- ###### [Acknowledgement](#acknowledgement)
 
-## <a name="intro"></a>Introduction
+1. [Introduction](#intro)
+2. [Failure Classification](#classification)
+3. [Methods](#method)
+4. [Datasets and Benchmarks](#dataset)
+5. [Updates](#updates)
+6. [Call for Contribution](#call)
+7. [Citation](#refer)
+8. [Acknowledgement](#acknowledgement)
+
+## 🏠 <a name="intro"></a> Introduction
 ![Image Alt Text](figures/1_1.png)
 Recent advancements in foundation models, particularly in the domain of Large Language Models (LLMs) and multimodal systems, have revolutionized the landscape of Embodied AI and robotic manipulation. Foundation models, such as LLMs and Vision-Language-Action Models (VLAs), endow robots with enhanced capabilities for reasoning, decision-making, and task execution, empowering them to perform a broad range of complex, unstructured tasks. However, these models also introduce a new spectrum of failure modes that were previously unseen in traditional robotic systems.
 
@@ -255,16 +256,18 @@ If you would like to contribute to this project, please refer to our [contributi
 - Send me new method and dataset info;
 - Send me new experiment results from published paper or public code implements.
 
-## <a name="refer"></a> Refer to this repo:
-```
-@misc{FDC_Survey,
-  author = {Yuanbin Liu},
-  title = {A_Survey_on_Failure_Detection_and_Correction_for_Robotic_Manipulation_in_the_Era_of_Foundation_Models},
-  year = {2025},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://https://github.com/Berlin-Law-code/awesome-fdc-survey/}},
-  commit = {master}
+## <a name="refer"></a> Citation
+If you find our work helpful, please cite:
+
+```bibtex
+@inproceedings{FDC_Survey,
+    title = {A_Survey_on_Failure_Detection_and_Correction_for_Robotic_Manipulation_in_the_Era_of_Foundation_Models},
+    author={Wang, Tai and Mao, Xiaohan and Zhu, Chenming and Xu, Runsen and Lyu, Ruiyuan and Li, Peisen and Chen, Xiao and Zhang, Wenwei and Chen, Kai and Xue, Tianfan and Liu, Xihui and Lu, Cewu and Lin, Dahua and Pang, Jiangmiao},
+    year={2025},
+    publisher = {GitHub}
+    journal = {GitHub repository},
+    howpublished = {\url{https://https://github.com/Berlin-Law-code/awesome-fdc-survey/}},
+    commit = {master}
 }
 ```
 ## <a name="acknowledgment"></a>Acknowledgment
