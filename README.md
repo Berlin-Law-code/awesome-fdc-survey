@@ -22,7 +22,7 @@ Foundation models play a crucial role in the detection and correction of these f
 World model can proactively prevent failures by simulating and evaluating potential recovery strategies.
 
 
-## <a name="classification"></a>  Failure Classification
+## 📄 <a name="classification"></a>  Failure Classification
 ![Image Alt Text](figures/3_1.png)
 
 Through a comprehensive review of the literature on failure classification, we distill four principal paradigms for categorizing robotic failures, derived from multiple analytical perspectives.
@@ -52,7 +52,7 @@ Through a comprehensive review of the literature on failure classification, we d
 | [Code-as-Monitor: Constraint-Aware Visual Programming for Reactive and Proactive Robotic Failure Detection](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhou_Code-as-Monitor_Constraint-Aware_Visual_Programming_for_Reactive_and_Proactive_Robotic_Failure_Detection_CVPR_2025_paper.pdf) | CVPR 2025 | https://zhoues.github.io/Code-as-Monitor |
 
 
-## <a name="method"></a> Methods Introduction
+## 🤖 <a name="method"></a> Methods Introduction
 We categorize existing failure detection and correction methods into two core paradigms: Human-in-the-Loop (HITL) and Model-in-theLoop (MITL). 
 
 ### Human in the Loop
@@ -184,7 +184,7 @@ Clarification of dataset types:
 | TransIC: Sim-to-real Policy Transfer by Learning from Online Correction | CoRL 2025 |  |
 | [Compliant Residual DAgger: Improving Real-World Contact-Rich Manipulation with Human Corrections](https://arxiv.org/pdf/2506.16685.pdf) | arXiv 2025 | [Code](https://github.com/yifan-hou/cr-dagger) |
 
-## <a name="dataset"></a> Datasets and Benchmarks
+## 📦 <a name="dataset"></a> Datasets and Benchmarks
 Constructing failure datasets and benchmarks for robotic manipulation tasks constitutes a critical prerequisite for enabling effective failure detection and correction. The following section provides a systematic overview of the datasets and benchmarking frameworks in this domain.
 
 ### Datasets Introduction
@@ -246,17 +246,17 @@ Following information is included for each dataset:
 | [AutoEval: Autonomous Evaluation of Generalist Robot Manipulation Policies in the Real World](https://arxiv.org/pdf/2503.24278) | 7th Robot Learning Workshop 2025 | https://auto-eval.github.io/ |
 
 
-## <a name="updates"></a> Updates
+## 🔥 <a name="updates"></a> Updates
 This section records big updates to ease refer (See `./release_detail.md` or click links below):
 - [Updates 2025.10.1](https://github.com/Berlin-Law-code/awesome-fdc-survey/blob/main/release_detail.md.md#20251001): Release in public.
 
-## <a name="call"></a> Call for Contribution
+## 📚 <a name="call"></a> Call for Contribution
 If you would like to contribute to this project, please refer to our [contribution guide](Contribution.md). Contributions are always welcome, and we encourage you to:
 - Directly pull request;
 - Send me new method and dataset info;
 - Send me new experiment results from published paper or public code implements.
 
-## <a name="refer"></a> Citation
+## 🔗 <a name="refer"></a> Citation
 If you find our work helpful, please cite:
 
 ```bibtex
@@ -270,7 +270,7 @@ If you find our work helpful, please cite:
     commit = {master}
 }
 ```
-## <a name="acknowledgment"></a>Acknowledgment
+## 👏 <a name="acknowledgment"></a>Acknowledgment
 
 Thanks for supports from my adviser [Wanxiang Che](http://ir.hit.edu.cn/~car/english.htm).
 
