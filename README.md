@@ -28,7 +28,7 @@ In the context of robotic manipulation, failure detection and recovery have beco
 Foundation models play a crucial role in the detection and correction of these failures. They enable robots to better understand and reason about the world, facilitating the identification of discrepancies between expected and actual outcomes. For example, LLMs and MLLMs can provide semantic verification and task re-planning when failures are detected, helping robots adapt to new or unexpected scenarios. Vision-Language-Action Models (VLAs) can generate alternative actions and correct erroneous movements in real-time.
 World model can proactively prevent failures by simulating and evaluating potential recovery strategies.
 
-![Image Alt Text](./figures/1_1.pdf)
+![Image Alt Text](./figures/1_1.png)
 
 #### Refer to this repo:
 ```
