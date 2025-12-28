@@ -18,10 +18,11 @@ Recent advancements in foundation models have significantly enhanced the capabil
 
 Foundation models are key in detecting and correcting failures in robotic systems. They enhance robots' understanding and reasoning, helping identify discrepancies between expected and actual outcomes. LLMs and MLLMs enable semantic verification and task re-planning, while Vision-Language-Action Models (VLAs) can correct movements in real-time. World models can proactively prevent failures by simulating and evaluating recovery strategies.
 
+
 ## 📄 <a name="classification"></a>  Failure Classification
 ![Image Alt Text](figures/3_1.png)
 
-Through a comprehensive review of the literature on failure classification, we distill four principal paradigms for categorizing robotic failures, derived from multiple analytical perspectives.
+As foundation models are increasingly integrated into robotic manipulation, failures are no longer limited to execution errors but also encompass cognitive and semantic failures arising from stages such as perception, grounding, planning, and reasoning. To address these challenges, this paper introduces a hierarchical failure classification framework that aligns with the perception-grounding-planning-execution pipeline.
 
 | Paper | Published in | Code/Project |
 | ------------- | :-----:| :-----:|
@@ -48,13 +49,13 @@ Through a comprehensive review of the literature on failure classification, we d
 | [Code-as-Monitor: Constraint-Aware Visual Programming for Reactive and Proactive Robotic Failure Detection](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhou_Code-as-Monitor_Constraint-Aware_Visual_Programming_for_Reactive_and_Proactive_Robotic_Failure_Detection_CVPR_2025_paper.pdf) | CVPR 2025 | https://zhoues.github.io/Code-as-Monitor |
 
 
-## 🤖 <a name="method"></a> Methods Introduction
-We categorize existing failure detection and correction methods into two core paradigms: Human-in-the-Loop (HITL) and Model-in-theLoop (MITL). 
+## 🤖 <a name="method"></a> Methods
+We categorize existing failure detection and recovery methods into three core paradigms: Human-in-the-Loop (HITL), Model-in-theLoop (MITL), and Reinforcement Fine-Tuning (RFT). 
 
 ### Human in the Loop
 
 ![Image Alt Text](figures/4_1.png)
-HITL mechanisms enhance system adaptability in complex tasks through supervision and interaction, effectively compensating for the shortcomings of autonomous models in common-sense reasoning and unconventional decision-making. Humans can provide intuitive feedback through multimodal interaction methods such as language, gestures, physiological signals, and interactive user interfaces, thereby accelerating the system’s ability to identify and respond to emergent failures.
+HITL mechanism involves human operators providing judgment and corrective actions during failure detection and recovery in autonomous systems. These methods are especially useful in dynamic, unstructured environments where the systems may lack adequate reasoning or commonsense knowledge.
 > Notice: None
 
 | Paper | Published in | Code/Project |
@@ -96,7 +97,7 @@ HITL mechanisms enhance system adaptability in complex tasks through supervision
 
 ### Model in the Loop
 ![Image Alt Text](figures/4_2.png)
-MITL mechanism deeply integrates world models, multimodal perception, and adaptive algorithms, enabling the system to autonomously form a closed feedback loop of perception, planning, execution and verification. By continuously monitoring task states, predicting potential risks, and dynamically adjusting strategies, the MITL mechanism aims to significantly reduce reliance on external intervention, thereby enhancing autonomy and efficiency. 
+MITL mechanism embeds failure detection and recovery capabilities directly within the robotic system, relying on internal models to monitor and respond to failures autonomously. This paradigm offers greater scalability and adaptability, as it reduces the need for constant human involvement. 
 > Notice: None.`
 
 | Paper | Published in | Code/Project |
@@ -151,8 +152,7 @@ MITL mechanism deeply integrates world models, multimodal perception, and adapti
 
 ### RL Fine-tuning Correction
 ![Image Alt Text](figures/4_3.png)
-Researchers are shifting their focus toward reinforcement fine-tuning for VLA architectures to autonomously learn and optimize through trial-and-error and reward mechanisms, thereby spontaneously developing advanced reasoning abilities such as CoT, selfverification, and failure correction, and even exhibiting emergent capabilities to achieve autonomous policy optimization, significantly enhancing their robustness and adaptability. 
-Clarification of dataset types:
+Reinforcement Fine-Tuning (RFT) enhances robotic manipulation by using feedback from the environment and past failures to continuously refine action policies, improving task performance and failure recovery over time.
 
 | Paper | Published in | Code/Project |
 | ------------- | :-----:| :-----:|
@@ -181,15 +181,9 @@ Clarification of dataset types:
 | [Compliant Residual DAgger: Improving Real-World Contact-Rich Manipulation with Human Corrections](https://arxiv.org/pdf/2506.16685.pdf) | arXiv 2025 | [Code](https://github.com/yifan-hou/cr-dagger) |
 
 ## 📦 <a name="dataset"></a> Datasets and Benchmarks
-Constructing failure datasets and benchmarks for robotic manipulation tasks constitutes a critical prerequisite for enabling effective failure detection and correction. The following section provides a systematic overview of the datasets and benchmarking frameworks in this domain.
+Effective failure detection and recovery strategies for robotic manipulation require high-quality datasets and standardized benchmarks. These resources help train models, evaluate failure handling approaches, and compare system robustness in various failure scenarios.
 
-### Datasets Introduction
-Following information is included for each dataset:
-- Name
-- Task Types
-- Scale and Diversity
-- Link (Paper / Source)
-
+### Datasets
 > Tips: The table below may not be displayed completely, **scroll right** to see more~
 
 | Paper | Published in | Code/Project |
@@ -207,14 +201,7 @@ Following information is included for each dataset:
 
 
 
-### Benchmarks Introduction
-
-Following information is included for each dataset:
-- Name
-- Evaluation Task Types
-- Scale and Diversity
-- Link (Paper / Source)
-
+### Benchmarks
 > Tips: The table below may not be displayed completely, **scroll right** to see more~
 
 | Paper | Published in | Code/Project |
@@ -240,7 +227,6 @@ Following information is included for each dataset:
 | [Sapien: A Simulated Part-Based Interactive Environment](https://arxiv.org/pdf/2003.08515) | CVPR 2020 | https://sapien.ucsd.edu/ |
 | [AI2-THOR: An Interactive 3D Environment for Visual AI](https://arxiv.org/pdf/1712.05474.pdf) | arXiv 2017 | http://ai2thor.allenai.org/ |
 | [AutoEval: Autonomous Evaluation of Generalist Robot Manipulation Policies in the Real World](https://arxiv.org/pdf/2503.24278) | 7th Robot Learning Workshop 2025 | https://auto-eval.github.io/ |
-
 
 ## 🔥 <a name="updates"></a> Updates
 This section records big updates to ease refer (See `./release_detail.md` or click links below):

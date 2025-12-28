@@ -4,5 +4,5 @@
 - New to [Markdown](https://www.markdownguide.org/cheat-sheet/)? Here's how it would look like:
 
 ```
-- [Topic](url): [Published in Journals/Conferences][Code/Project](url)
+- |[Title](Paper Link)|Journal/Conference|[Code/Project](Code/Project link)|
 ```
