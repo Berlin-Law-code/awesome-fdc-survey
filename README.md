@@ -1,6 +1,4 @@
-<div align="center">
-    ## Towards Robust Robotic Manipulation: A Survey on Failure Detection and Recovery in the Era of Foundation Model
-</div>
+<h1 align="center"><strong>Towards Robust Robotic Manipulation: A Survey on Failure Detection and Recovery in the Era of Foundation Model</strong></h1>
 A curated collection of seminal papers, codebases, and resources in the field of failure detection and correction, continuously updated.
 
 ## 📖 Content
