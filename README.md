@@ -151,9 +151,9 @@ MITL mechanism embeds failure detection and recovery capabilities directly withi
 
 
 
-### RL Fine-tuning Correction
+### Reinforcement Learning Fine-Tuning
 ![Image Alt Text](figures/4_3.png)
-Reinforcement Fine-Tuning (RFT) enhances robotic manipulation by using feedback from the environment and past failures to continuously refine action policies, improving task performance and failure recovery over time.
+RFT enhances robotic manipulation by using feedback from the environment and past failures to continuously refine action policies, improving task performance and failure recovery over time.
 > Tips: The table below may not be displayed completely, **scroll right** to see more~
 
 | Paper | Published in | Code/Project |
@@ -181,6 +181,9 @@ Reinforcement Fine-Tuning (RFT) enhances robotic manipulation by using feedback 
 | [Self-improving Vision-Language-Action Models with Data Generation via Residual RL](https://arxiv.org/pdf/2511.00091.pdf) | arXiv 2025 |  |
 | TransIC: Sim-to-real Policy Transfer by Learning from Online Correction | CoRL 2025 |  |
 | [Compliant Residual DAgger: Improving Real-World Contact-Rich Manipulation with Human Corrections](https://arxiv.org/pdf/2506.16685.pdf) | arXiv 2025 | [Code](https://github.com/yifan-hou/cr-dagger) |
+
+### Matching Failures to Recovery Strategies
+![Image Alt Text](figures/4_4.png)
 
 ## 📦 <a name="dataset"></a> Datasets and Benchmarks
 Effective failure detection and recovery strategies for robotic manipulation require high-quality datasets and standardized benchmarks. These resources help train models, evaluate failure handling approaches, and compare system robustness in various failure scenarios.
