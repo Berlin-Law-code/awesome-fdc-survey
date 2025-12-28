@@ -230,10 +230,10 @@ Following information is included for each dataset:
 
 | Paper | Published in | Code/Project |
 | ------------- | :-----:| :-----:|
-| [A Multimodal Handover Failure Detection Dataset and Baselines](https://arxiv.org/pdf/2402.18319.pdf) | ICRA 2024 | [Code](https://github.com/sthoduka/handover_failure_detection) |
-| [Data-Agnostic Robotic Long-Horizon Manipulation with Vision-Language-Guided Closed-Loop Feedback](https://arxiv.org/pdf/2503.21969.pdf) | arXiv 2025 | [Code](https://github.com/Ghiara/DAHLIA) |
-| [Open X-Embodiment: Robotic Learning Datasets and RT-X Models](https://arxiv.org/pdf/2310.08864.pdf) | ICRA 2024 | [Project](https://github.com/google-deepmind/open_x_embodiment) |
-| [All Robots in One: A New Standard and Unified Dataset for Versatile, General-Purpose Embodied Agents](https://arxiv.org/pdf/2408.10899.pdf) | arXiv 2024 | [Project](https://imaei.github.io/project_pages/ario/) |
+| [A Multimodal Handover Failure Detection Dataset and Baselines](https://arxiv.org/pdf/2402.18319) | ICRA 2024 | [Code]( https://sthoduka.github.io/handover_failure_detection) |
+| [Data-Agnostic Robotic Long-Horizon Manipulation with Vision-Language-Guided Closed-Loop Feedback](https://ghiara.github.io/DAHLIA/static/DAHLIA-v2.pdf) | arXiv 2025 | [Code](https://github.com/Ghiara/DAHLIA) |
+| [Open X-Embodiment: Robotic Learning Datasets and RT-X Models](https://arxiv.org/pdf/2310.08864) | ICRA 2024 | [Project](https://github.com/google-deepmind/open_x_embodiment) |
+| [All Robots in One: A New Standard and Unified Dataset for Versatile, General-Purpose Embodied Agents](https://arxiv.org/pdf/2408.10899) | arXiv 2024 | [Project](https://imaei.github.io/project_pages/ario/) |
 | [A System-Level View on Out-of-Distribution Data in Robotics](https://arxiv.org/pdf/2212.14020.pdf) | arXiv 2022 |  |
 | [RoboMIND: Benchmark on Multi-embodiment Intelligence Normative Data for Robot Manipulation](https://arxiv.org/pdf/2412.13877.pdf) | arXiv 2024 | [Project](https://x-humanoid-robomind.github.io/) |
 | [REFLEX Dataset: A Multimodal Dataset of Human Reactions to Robot Failures and Explanations](https://arxiv.org/pdf/2502.14185.pdf) | HRI 2025 | [Project](https://github.com/andreasnaoum/reflex-viz) |
@@ -257,27 +257,27 @@ Following information is included for each dataset:
 | ------------- | :-----:| :-----:|
 | Paper | Published in | Code/Project |
 | ------------- | :-----: | :-----: |
-| [Embodied Question Answering](https://openaccess.thecvf.com/content_cvpr_2018/html/Das_Embodied_Question_Answering_CVPR_2018_paper.html) | CVPR 2018 |  |
-| [IQA: Visual Question Answering in Interactive Environments](https://openaccess.thecvf.com/content_cvpr_2018/html/Gordon_IQA_Visual_Question_CVPR_2018_paper.html) | CVPR 2018 |  |
-| [Multi-Target Embodied Question Answering](https://openaccess.thecvf.com/content_CVPR_2019/html/Yu_Multi-Target_Embodied_Question_Answering_CVPR_2019_paper.html) | CVPR 2019 |  |
-| [Embodied Question Answering in Photorealistic Environments with Point Cloud Perception](https://openaccess.thecvf.com/content_CVPR_2019/html/Wijmans_Embodied_Question_Answering_in_Photorealistic_Environments_With_Point_Cloud_CVPR_2019_paper.html) | CVPR 2019 |  |
-| [EgoTaskQA: Understanding Human Tasks in Egocentric Videos](https://proceedings.neurips.cc/paper/2022/file/8b4829c12a88e96c129ed5cf0e76e694-Paper.pdf) | NeurIPS 2022 |  |
-| [EQA MX: Embodied Question Answering using Multimodal Expression](https://openreview.net/forum?id=TCZ4uMXvDNo) | ICLR 2024 |  |
-| [OpenEQA: Embodied Question Answering in the Era of Foundation Models](https://openaccess.thecvf.com/content/CVPR2024/html/Majumdar_OpenEQA_Embodied_Question_Answering_in_the_Era_of_Foundation_Models_CVPR_2024_paper.html) | CVPR 2024 |  |
-| [Muble: Mujoco and Blender Simulation Environment and Benchmark for Task Planning in Robot Manipulation](https://arxiv.org/pdf/2503.02834.pdf) | arXiv 2025 |  |
-| [Beyond the Destination: A Novel Benchmark for Exploration-Aware Embodied Question Answering](https://arxiv.org/pdf/2503.11117.pdf) | arXiv 2025 |  |
-| [IndustryEQA: Pushing the Frontiers of Embodied Question Answering in Industrial Scenarios](https://arxiv.org/pdf/2505.20640.pdf) | arXiv 2025 |  |
-| [Grounded, or a Good Guesser?: A Per-Question Balanced Dataset to Separate Blind from Grounded Models for Embodied QA](https://aclanthology.org/2025.acl-main.124.pdf) | ACL 2025 |  |
-| [RoboCerebra: A Large-Scale Benchmark for Long Horizon Robotic Manipulation Evaluation](https://arxiv.org/pdf/2506.06677.pdf) | arXiv 2025 |  |
-| Explore Until Confident: Efficient Exploration for Embodied Question Answering | ICRA 2024 Workshop |  |
-| [Robo2VLM: Visual Question Answering from Large-Scale In-the-Wild Robot Manipulation Datasets](https://arxiv.org/pdf/2505.15517.pdf) | arXiv 2025 |  |
-| [VLatest: Testing and Evaluating Vision-Language-Action Models for Robotic Manipulation](https://dl.acm.org/doi/abs/10.1145/3604510) | ACM SE 2025 |  |
-| [What Matters in Learning from Offline Human Demonstrations for Robot Manipulation](https://proceedings.mlr.press/v164/mandlekar22a/mandlekar22a.pdf) | CoRL 2022 |  |
-| The COLOSSEUM: A Benchmark for Evaluating Generalization for Robotic Manipulation | RSS 2024 Workshop |  |
-| [RLBench: The Robot Learning Benchmark & Learning Environment](https://ieeexplore.ieee.org/document/9153261) | IEEE RA-L 2020 | https://github.com/stepjam/RLBench |
-| [Sapien: A Simulated Part-Based Interactive Environment](https://openaccess.thecvf.com/content_CVPR_2020/html/Xiang_SAPIEN_A_Simulated_Part-Based_Interactive_Environment_CVPR_2020_paper.html) | CVPR 2020 | https://sapien.ucsd.edu/ |
-| [AI2-THOR: An Interactive 3D Environment for Visual AI](https://arxiv.org/pdf/1712.05474.pdf) | arXiv 2017 | https://ai2thor.allenai.org/ |
-| [AutoEval: Autonomous Evaluation of Generalist Robot Manipulation Policies in the Real World] | 7th Robot Learning Workshop 2025 |  |
+| [Embodied Question Answering](https://openaccess.thecvf.com/content_cvpr_2018/html/Das_Embodied_Question_Answering_CVPR_2018_paper.html) | CVPR 2018 | https://embodiedqa.org/ |
+| [IQA: Visual Question Answering in Interactive Environments](https://openaccess.thecvf.com/content_cvpr_2018/html/Gordon_IQA_Visual_Question_CVPR_2018_paper.html) | CVPR 2018 | https://youtu.be/pXd3C-1jr98 |
+| [Multi-Target Embodied Question Answering](https://openaccess.thecvf.com/content_CVPR_2019/html/Yu_Multi-Target_Embodied_Question_Answering_CVPR_2019_paper.html) | CVPR 2019 | https://embodiedqa.org/ |
+| [Embodied Question Answering in Photorealistic Environments with Point Cloud Perception](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wijmans_Embodied_Question_Answering_in_Photorealistic_Environments_With_Point_Cloud_Perception_CVPR_2019_paper.pdf) | CVPR 2019 |  |
+| [EgoTaskQA: Understanding Human Tasks in Egocentric Videos](https://arxiv.org/pdf/2210.03929) | NeurIPS 2022 | https://sites.google.com/view/egotaskqa |
+| [EQA MX: Embodied Question Answering using Multimodal Expression](https://openreview.net/pdf?id=7gUrYE50Rb) | ICLR 2024 | [Dataset](https://bit.ly/eqa-mx-dataset), [Code](https://bit.ly/eqa-repo) |
+| [OpenEQA: Embodied Question Answering in the Era of Foundation Models](https://openaccess.thecvf.com/content/CVPR2024/html/Majumdar_OpenEQA_Embodied_Question_Answering_in_the_Era_of_Foundation_Models_CVPR_2024_paper.html) | CVPR 2024 | https://open-eqa.github.io/ |
+| [Muble: Mujoco and Blender Simulation Environment and Benchmark for Task Planning in Robot Manipulation](https://arxiv.org/pdf/2503.02834.pdf) | arXiv 2025 | https://github.com/michaal94/MuBlE |
+| [Beyond the Destination: A Novel Benchmark for Exploration-Aware Embodied Question Answering](https://arxiv.org/pdf/2503.11117) | arXiv 2025 | https://github.com/HCPLab-SYSU/EXPRESS-Bench |
+| [IndustryEQA: Pushing the Frontiers of Embodied Question Answering in Industrial Scenarios](https://arxiv.org/pdf/2505.20640.pdf) | arXiv 2025 | [Dataset](https://huggingface.co/datasets/IndustryEQA/IndustryEQA),  [Code](https://github.com/JackYFL/IndustryEQA)|
+| [Grounded, or a Good Guesser?: A Per-Question Balanced Dataset to Separate Blind from Grounded Models for Embodied QA](https://aclanthology.org/2025.acl-short.11.pdf) | ACL 2025 | https://milesshelton.github.io/pqb_eqa/ |
+| [RoboCerebra: A Large-Scale Benchmark for Long Horizon Robotic Manipulation Evaluation](https://arxiv.org/pdf/2506.06677.pdf) | arXiv 2025 | https://robocerebra.github.io/ |
+| [Explore Until Confident: Efficient Exploration for Embodied Question Answering](https://arxiv.org/pdf/2403.15941) | ICRA 2024 Workshop | https://explore-eqa.github.io/ |
+| [Robo2VLM: Visual Question Answering from Large-Scale In-the-Wild Robot Manipulation Datasets](https://arxiv.org/pdf/2505.15517.pdf) | arXiv 2025 | https://berkeleyautomation.github.io/robo2vlm/ |
+| [VLatest: Testing and Evaluating Vision-Language-Action Models for Robotic Manipulation](https://arxiv.org/pdf/2409.12894) | ACM SE 2025 | https://github.com/ma-labo/VLATest |
+| [What Matters in Learning from Offline Human Demonstrations for Robot Manipulation](https://proceedings.mlr.press/v164/mandlekar22a/mandlekar22a.pdf) | CoRL 2022 | https://arise-initiative.github.io/robomimic-web/ |
+| [The COLOSSEUM: A Benchmark for Evaluating Generalization for Robotic Manipulation](https://arxiv.org/pdf/2402.08191) | RSS 2024 Workshop | https://robot-colosseum.github.io/ |
+| [RLBench: The Robot Learning Benchmark & Learning Environment](https://ieeexplore.ieee.org/document/9153261) | IEEE RA-L 2020 | https://sites.google.com/view/rlbench |
+| [Sapien: A Simulated Part-Based Interactive Environment](https://arxiv.org/pdf/2003.08515) | CVPR 2020 | https://sapien.ucsd.edu/ |
+| [AI2-THOR: An Interactive 3D Environment for Visual AI](https://arxiv.org/pdf/1712.05474.pdf) | arXiv 2017 | http://ai2thor.allenai.org/ |
+| [AutoEval: Autonomous Evaluation of Generalist Robot Manipulation Policies in the Real World](https://arxiv.org/pdf/2503.24278) | 7th Robot Learning Workshop 2025 | https://auto-eval.github.io/ |
 
 
 
