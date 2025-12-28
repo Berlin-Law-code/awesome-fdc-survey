@@ -24,6 +24,7 @@ Foundation models are key in detecting and correcting failures in robotic system
 
 As foundation models are increasingly integrated into robotic manipulation, failures are no longer limited to execution errors but also encompass cognitive and semantic failures arising from stages such as perception, grounding, planning, and reasoning. To address these challenges, this paper introduces a hierarchical failure classification framework that aligns with the perception-grounding-planning-execution pipeline.
 
+> Tips: The table below may not be displayed completely, **scroll right** to see more~
 | Paper | Published in | Code/Project |
 | ------------- | :-----:| :-----:|
 | [Reflect: Summarizing Robot Experiences for Failure Explanation and Correction](https://arxiv.org/pdf/2306.15724) | CoRL 2023 | https://robot-reflect.github.io/ |
@@ -56,8 +57,8 @@ We categorize existing failure detection and recovery methods into three core pa
 
 ![Image Alt Text](figures/4_1.png)
 HITL mechanism involves human operators providing judgment and corrective actions during failure detection and recovery in autonomous systems. These methods are especially useful in dynamic, unstructured environments where the systems may lack adequate reasoning or commonsense knowledge.
-> Notice: None
 
+> Tips: The table below may not be displayed completely, **scroll right** to see more~
 | Paper | Published in | Code/Project |
 | ------------- | :-----:| :-----:|
 | [RACER: Rich Language-Guided Failure Recovery Policies for Imitation Learning](https://arxiv.org/pdf/2409.14674.pdf) | arXiv 2024 | https://rich-language-failure-recovery.github.io/ |
@@ -98,8 +99,8 @@ HITL mechanism involves human operators providing judgment and corrective action
 ### Model in the Loop
 ![Image Alt Text](figures/4_2.png)
 MITL mechanism embeds failure detection and recovery capabilities directly within the robotic system, relying on internal models to monitor and respond to failures autonomously. This paradigm offers greater scalability and adaptability, as it reduces the need for constant human involvement. 
-> Notice: None.`
 
+> Tips: The table below may not be displayed completely, **scroll right** to see more~
 | Paper | Published in | Code/Project |
 | ------------- | :-----:| :-----:|
 | [Inner Monologue: Embodied Reasoning Through Planning with Language Models](https://proceedings.mlr.press/v205/huang23b/huang23b.pdf) | CoRL 2023 |  |
@@ -154,6 +155,7 @@ MITL mechanism embeds failure detection and recovery capabilities directly withi
 ![Image Alt Text](figures/4_3.png)
 Reinforcement Fine-Tuning (RFT) enhances robotic manipulation by using feedback from the environment and past failures to continuously refine action policies, improving task performance and failure recovery over time.
 
+> Tips: The table below may not be displayed completely, **scroll right** to see more~
 | Paper | Published in | Code/Project |
 | ------------- | :-----:| :-----:|
 | Paper | Published in | Code/Project |
