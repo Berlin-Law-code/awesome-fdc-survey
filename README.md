@@ -250,7 +250,7 @@ If you find our work helpful, please cite:
 
 ```bibtex
 @inproceedings{FDC_Survey,
-    title = {owards Robust Robotic Manipulation: A Survey on Failure Detection and Recovery in the Era of Foundation Model},
+    title = {Towards Robust Robotic Manipulation: A Survey on Failure Detection and Recovery in the Era of Foundation Model},
     author={Yuanbin Liu, Lezhi Liao, Yufei Zhou, Xiaoyu Guo, Qingshu Zhang, Guoniu Zhu, Shuhua Gao, Jiankun Wang, Wenjun Xu, and Liang Lin},
     year={2025},
     publisher = {GitHub}
