@@ -22,6 +22,8 @@ World model can proactively prevent failures by simulating and evaluating potent
 
 
 ## <a name="classification"></a>  Failure Classification
+![Image Alt Text](figures/3_1.png)
+
 Through a comprehensive review of the literature on failure classification, we distill four principal paradigms for categorizing robotic failures, derived from multiple analytical perspectives.
 
 | Paper | Published in | Code/Project |
@@ -49,15 +51,13 @@ Through a comprehensive review of the literature on failure classification, we d
 | [Code-as-Monitor: Constraint-Aware Visual Programming for Reactive and Proactive Robotic Failure Detection](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhou_Code-as-Monitor_Constraint-Aware_Visual_Programming_for_Reactive_and_Proactive_Robotic_Failure_Detection_CVPR_2025_paper.pdf) | CVPR 2025 | https://zhoues.github.io/Code-as-Monitor |
 
 
-
-
-
 ## <a name="method"></a> Methods Introduction
 We categorize existing failure detection and correction methods into two core paradigms: Human-in-the-Loop (HITL) and Model-in-theLoop (MITL). 
 
 ### Human in the Loop
-HITL mechanisms enhance system adaptability in complex tasks through supervision and interaction, effectively compensating for the shortcomings of autonomous models in common-sense reasoning and unconventional decision-making. Humans can provide intuitive feedback through multimodal interaction methods such as language, gestures, physiological signals, and interactive user interfaces, thereby accelerating the system’s ability to identify and respond to emergent failures.
 
+![Image Alt Text](figures/4_1.png)
+HITL mechanisms enhance system adaptability in complex tasks through supervision and interaction, effectively compensating for the shortcomings of autonomous models in common-sense reasoning and unconventional decision-making. Humans can provide intuitive feedback through multimodal interaction methods such as language, gestures, physiological signals, and interactive user interfaces, thereby accelerating the system’s ability to identify and respond to emergent failures.
 > Notice: None
 
 | Paper | Published in | Code/Project |
@@ -98,8 +98,8 @@ HITL mechanisms enhance system adaptability in complex tasks through supervision
 | [ConRFT: Reinforced Fine-Tuning Method for VL Models via Consistency Policy](https://arxiv.org/pdf/2502.05450.pdf) | arXiv 2025 |  |
 
 ### Model in the Loop
+![Image Alt Text](figures/4_2.png)
 MITL mechanism deeply integrates world models, multimodal perception, and adaptive algorithms, enabling the system to autonomously form a closed feedback loop of perception, planning, execution and verification. By continuously monitoring task states, predicting potential risks, and dynamically adjusting strategies, the MITL mechanism aims to significantly reduce reliance on external intervention, thereby enhancing autonomy and efficiency. 
-
 > Notice: None.`
 
 | Paper | Published in | Code/Project |
@@ -153,8 +153,8 @@ MITL mechanism deeply integrates world models, multimodal perception, and adapti
 
 
 ### RL Fine-tuning Correction
+![Image Alt Text](figures/4_3.png)
 Researchers are shifting their focus toward reinforcement fine-tuning for VLA architectures to autonomously learn and optimize through trial-and-error and reward mechanisms, thereby spontaneously developing advanced reasoning abilities such as CoT, selfverification, and failure correction, and even exhibiting emergent capabilities to achieve autonomous policy optimization, significantly enhancing their robustness and adaptability. 
-
 Clarification of dataset types:
 
 | Paper | Published in | Code/Project |
@@ -183,14 +183,10 @@ Clarification of dataset types:
 | TransIC: Sim-to-real Policy Transfer by Learning from Online Correction | CoRL 2025 |  |
 | [Compliant Residual DAgger: Improving Real-World Contact-Rich Manipulation with Human Corrections](https://arxiv.org/pdf/2506.16685.pdf) | arXiv 2025 | [Code](https://github.com/yifan-hou/cr-dagger) |
 
-
-
-
 ## <a name="dataset"></a> Datasets and Benchmarks
 Constructing failure datasets and benchmarks for robotic manipulation tasks constitutes a critical prerequisite for enabling effective failure detection and correction. The following section provides a systematic overview of the datasets and benchmarking frameworks in this domain.
 
 ### Datasets Introduction
-
 Following information is included for each dataset:
 - Name
 - Task Types
@@ -271,7 +267,6 @@ If you would like to contribute to this project, please refer to our [contributi
   commit = {master}
 }
 ```
-
 ## <a name="acknowledgment"></a>Acknowledgment
 
 Thanks for supports from my adviser [Wanxiang Che](http://ir.hit.edu.cn/~car/english.htm).
