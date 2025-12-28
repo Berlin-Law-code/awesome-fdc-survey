@@ -184,6 +184,7 @@ RFT enhances robotic manipulation by using feedback from the environment and pas
 
 ### Matching Failures to Recovery Strategies
 ![Image Alt Text](figures/4_4.png)
+The robustness of robotic manipulation systems depends not only on the presence of recovery mechanisms but also on the precise alignment of detection and recovery strategies with the characteristics of the faults. As illustrated in the figure above, it highlights the corresponding fault detection and recovery mechanisms for different fault categories.
 
 ## 📦 <a name="dataset"></a> Datasets and Benchmarks
 Effective failure detection and recovery strategies for robotic manipulation require high-quality datasets and standardized benchmarks. These resources help train models, evaluate failure handling approaches, and compare system robustness in various failure scenarios.
@@ -249,8 +250,8 @@ If you find our work helpful, please cite:
 
 ```bibtex
 @inproceedings{FDC_Survey,
-    title = {A_Survey_on_Failure_Detection_and_Correction_for_Robotic_Manipulation_in_the_Era_of_Foundation_Models},
-    author={Wang, Tai and Mao, Xiaohan and Zhu, Chenming and Xu, Runsen and Lyu, Ruiyuan and Li, Peisen and Chen, Xiao and Zhang, Wenwei and Chen, Kai and Xue, Tianfan and Liu, Xihui and Lu, Cewu and Lin, Dahua and Pang, Jiangmiao},
+    title = {owards Robust Robotic Manipulation: A Survey on Failure Detection and Recovery in the Era of Foundation Model},
+    author={Yuanbin Liu, Lezhi Liao, Yufei Zhou, Xiaoyu Guo, Qingshu Zhang, Guoniu Zhu, Shuhua Gao, Jiankun Wang, Wenjun Xu, and Liang Lin},
     year={2025},
     publisher = {GitHub}
     journal = {GitHub repository},
