@@ -21,11 +21,15 @@ Review of relevant papers on fault detection and correction
 
 
 ## <a name="intro"></a>Introduction
-This repo is a dataset and methods survey for Task-oriented Dialogue.
+Recent advancements in foundation models, particularly in the domain of Large Language Models (LLMs) and multimodal systems, have revolutionized the landscape of Embodied AI and robotic manipulation. Foundation models, such as LLMs and Vision-Language-Action Models (VLAs), endow robots with enhanced capabilities for reasoning, decision-making, and task execution, empowering them to perform a broad range of complex, unstructured tasks. However, these models also introduce a new spectrum of failure modes that were previously unseen in traditional robotic systems.
 
-We investigated most existing dialogue datasets and summarized their basic information, such as brief, download link and size.
+In the context of robotic manipulation, failure detection and recovery have become increasingly critical as robots transition from deterministic systems to those driven by foundation models. These models not only improve task planning and execution but also bring inherent challenges such as hallucinations, lack of physical commonsense, and semantic misinterpretations, which may lead to failures in perception, grounding, planning, and execution. These cognitive-level failures significantly increase the uncertainty in task outcomes, necessitating the development of more robust and reliable failure detection and recovery mechanisms.
 
-We also included leader boards of popular dataset to present research progress in the task oriented dialogue fields.
+Foundation models play a crucial role in the detection and correction of these failures. They enable robots to better understand and reason about the world, facilitating the identification of discrepancies between expected and actual outcomes. For example, LLMs and MLLMs can provide semantic verification and task re-planning when failures are detected, helping robots adapt to new or unexpected scenarios. Vision-Language-Action Models (VLAs) can generate alternative actions and correct erroneous movements in real-time.
+World model can proactively prevent failures by simulating and evaluating potential recovery strategies.
+
+![Image Alt Text](./figures/1_1.pdf)
+
 #### Refer to this repo:
 ```
 @misc{FDC_Survey,
@@ -45,6 +49,8 @@ This section records big updates to ease refer (See `./release_detail.md` or cli
 
 
 ## <a name="call"></a> Call for Contribution
+![Image Alt Text](./figures/3_failure_taxonomy.pdf)
+
 Contributions are welcomed, you are encouraged to:
 - Directly pull request
 - Send me new method and dataset info
