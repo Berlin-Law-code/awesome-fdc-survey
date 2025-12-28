@@ -1,26 +1,18 @@
-# awesome-fdc-survey
-Review of relevant papers on fault detection and correction
-# Awesome Fault Detection and Correction [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-> A curated collection of seminal papers, codebases, and resources in the field of failure detection and correction, continuously updated.  
-> Contributions are welcome—please refer to [CONTRIBUTING.md](CONTRIBUTING.md)
-> 
----
-
-<link rel="stylesheet" type="text/css" href="auto-number-title.css" />
+# Towards Robust Robotic Manipulation: A Survey on Failure Detection and Recovery in the Era of Foundation Model
+A curated collection of seminal papers, codebases, and resources in the field of failure detection and correction, continuously updated.
 
 ## 📖 Content
 - ##### [Introduction](#intro)
-- ##### [Updates](#updates)
-- ##### [Call for Contribution](#call)
 - ##### [Failure Classification](#classification)
 - ##### [Methods Introduction](#method)
 - ##### [Datasets and Benchmarks](#dataset)
+- ##### [Updates](#updates)
+- ##### [Call for Contribution](#call)
+- ##### [Refer to this repo](#refer)
 - ##### [Acknowledgement](#acknowledgement)
 
-
-
 ## <a name="intro"></a>Introduction
+![Image Alt Text](figures/1_1.png)
 Recent advancements in foundation models, particularly in the domain of Large Language Models (LLMs) and multimodal systems, have revolutionized the landscape of Embodied AI and robotic manipulation. Foundation models, such as LLMs and Vision-Language-Action Models (VLAs), endow robots with enhanced capabilities for reasoning, decision-making, and task execution, empowering them to perform a broad range of complex, unstructured tasks. However, these models also introduce a new spectrum of failure modes that were previously unseen in traditional robotic systems.
 
 In the context of robotic manipulation, failure detection and recovery have become increasingly critical as robots transition from deterministic systems to those driven by foundation models. These models not only improve task planning and execution but also bring inherent challenges such as hallucinations, lack of physical commonsense, and semantic misinterpretations, which may lead to failures in perception, grounding, planning, and execution. These cognitive-level failures significantly increase the uncertainty in task outcomes, necessitating the development of more robust and reliable failure detection and recovery mechanisms.
@@ -28,33 +20,6 @@ In the context of robotic manipulation, failure detection and recovery have beco
 Foundation models play a crucial role in the detection and correction of these failures. They enable robots to better understand and reason about the world, facilitating the identification of discrepancies between expected and actual outcomes. For example, LLMs and MLLMs can provide semantic verification and task re-planning when failures are detected, helping robots adapt to new or unexpected scenarios. Vision-Language-Action Models (VLAs) can generate alternative actions and correct erroneous movements in real-time.
 World model can proactively prevent failures by simulating and evaluating potential recovery strategies.
 
-![Image Alt Text](./figures/1_1.png)
-
-#### Refer to this repo:
-```
-@misc{FDC_Survey,
-  author = {Yuanbin Liu},
-  title = {A_Survey_on_Failure_Detection_and_Correction_for_Robotic_Manipulation_in_the_Era_of_Foundation_Models},
-  year = {2025},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://https://github.com/Berlin-Law-code/awesome-fdc-survey/}},
-  commit = {master}
-}
-```
-
-## <a name="updates"></a> Updates
-This section records big updates to ease refer (See `./release_detail.md` or click links below):
-- [Updates 2025.10.1](https://github.com/Berlin-Law-code/awesome-fdc-survey/blob/main/release_detail.md.md#20251001): Release in public.
-
-
-## <a name="call"></a> Call for Contribution
-![Image Alt Text](figures/3_failure_taxonomy.pdf)
-
-Contributions are welcomed, you are encouraged to:
-- Directly pull request
-- Send me new method and dataset info
-- Send me new experiment results from published paper or public code implements.
 
 ## <a name="classification"></a>  Failure Classification
 Through a comprehensive review of the literature on failure classification, we distill four principal paradigms for categorizing robotic failures, derived from multiple analytical perspectives.
@@ -284,13 +249,33 @@ Following information is included for each dataset:
 | [AutoEval: Autonomous Evaluation of Generalist Robot Manipulation Policies in the Real World](https://arxiv.org/pdf/2503.24278) | 7th Robot Learning Workshop 2025 | https://auto-eval.github.io/ |
 
 
+## <a name="updates"></a> Updates
+This section records big updates to ease refer (See `./release_detail.md` or click links below):
+- [Updates 2025.10.1](https://github.com/Berlin-Law-code/awesome-fdc-survey/blob/main/release_detail.md.md#20251001): Release in public.
 
+## <a name="call"></a> Call for Contribution
+If you would like to contribute to this project, please refer to our [contribution guide](Contribution.md). Contributions are always welcome, and we encourage you to:
+- Directly pull request;
+- Send me new method and dataset info;
+- Send me new experiment results from published paper or public code implements.
+
+## <a name="refer"></a> Refer to this repo:
+```
+@misc{FDC_Survey,
+  author = {Yuanbin Liu},
+  title = {A_Survey_on_Failure_Detection_and_Correction_for_Robotic_Manipulation_in_the_Era_of_Foundation_Models},
+  year = {2025},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://https://github.com/Berlin-Law-code/awesome-fdc-survey/}},
+  commit = {master}
+}
+```
 
 ## <a name="acknowledgment"></a>Acknowledgment
 
 Thanks for supports from my adviser [Wanxiang Che](http://ir.hit.edu.cn/~car/english.htm).
 
 Thanks for **public contributions** from:
-[Shuai Lin](https://github.com/ha-lins)
-.
+[Shuai Lin](https://github.com/ha-lins).
 
