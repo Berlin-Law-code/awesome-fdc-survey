@@ -255,8 +255,6 @@ Following information is included for each dataset:
 
 | Paper | Published in | Code/Project |
 | ------------- | :-----:| :-----:|
-| Paper | Published in | Code/Project |
-| ------------- | :-----: | :-----: |
 | [Embodied Question Answering](https://openaccess.thecvf.com/content_cvpr_2018/html/Das_Embodied_Question_Answering_CVPR_2018_paper.html) | CVPR 2018 | https://embodiedqa.org/ |
 | [IQA: Visual Question Answering in Interactive Environments](https://openaccess.thecvf.com/content_cvpr_2018/html/Gordon_IQA_Visual_Question_CVPR_2018_paper.html) | CVPR 2018 | https://youtu.be/pXd3C-1jr98 |
 | [Multi-Target Embodied Question Answering](https://openaccess.thecvf.com/content_CVPR_2019/html/Yu_Multi-Target_Embodied_Question_Answering_CVPR_2019_paper.html) | CVPR 2019 | https://embodiedqa.org/ |
