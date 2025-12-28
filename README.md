@@ -151,7 +151,7 @@ MITL mechanism embeds failure detection and recovery capabilities directly withi
 
 
 
-### Reinforcement Learning Fine-Tuning
+### Reinforcement Fine-Tuning
 ![Image Alt Text](figures/4_3.png)
 RFT enhances robotic manipulation by using feedback from the environment and past failures to continuously refine action policies, improving task performance and failure recovery over time.
 > Tips: The table below may not be displayed completely, **scroll right** to see more~
