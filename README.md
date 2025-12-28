@@ -1,15 +1,15 @@
 <h1 align="center"><strong>Towards Robust Robotic Manipulation: A Survey on Failure Detection and Recovery in the Era of Foundation Model</strong></h1>
-A curated collection of seminal papers, codebases, and resources in the field of failure detection and correction, continuously updated.
+A curated collection of seminal papers, codebases, datasets and benchmarks in the field of failure detection and recovery, continuously updated.
 
 ## 📖 Content
-- ##### [Introduction](#intro)
-- ##### [Failure Classification](#classification)
-- ##### [Methods Introduction](#method)
-- ##### [Datasets and Benchmarks](#dataset)
-- ##### [Updates](#updates)
-- ##### [Call for Contribution](#call)
-- ##### [Refer to this repo](#refer)
-- ##### [Acknowledgement](#acknowledgement)
+- ###### [Introduction](#intro)
+- ###### [Failure Classification](#classification)
+- ###### [Methods Introduction](#method)
+- ###### [Datasets and Benchmarks](#dataset)
+- ###### [Updates](#updates)
+- ###### [Call for Contribution](#call)
+- ###### [Refer to this repo](#refer)
+- ###### [Acknowledgement](#acknowledgement)
 
 ## <a name="intro"></a>Introduction
 ![Image Alt Text](figures/1_1.png)
