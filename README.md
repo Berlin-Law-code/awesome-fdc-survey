@@ -49,7 +49,7 @@ This section records big updates to ease refer (See `./release_detail.md` or cli
 
 
 ## <a name="call"></a> Call for Contribution
-![Image Alt Text](./figures/3_failure_taxonomy.pdf)
+![Image Alt Text](figures/3_failure_taxonomy.pdf)
 
 Contributions are welcomed, you are encouraged to:
 - Directly pull request
