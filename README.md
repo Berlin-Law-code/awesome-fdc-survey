@@ -103,51 +103,50 @@ MITL mechanism embeds failure detection and recovery capabilities directly withi
 
 | Paper | Published in | Code/Project |
 | ------------- | :-----:| :-----:|
-| [Inner Monologue: Embodied Reasoning Through Planning with Language Models](https://proceedings.mlr.press/v205/huang23b/huang23b.pdf) | CoRL 2023 |  |
-| [Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks](https://arxiv.org/pdf/2503.21696.pdf) | arXiv 2025 |  |
-| Overcoming Reward Model Noise in Instruction-Guided Reinforcement Learning | arXiv 2024 |  |
-| [Safe: Multitask Failure Detection for Vision-Language-Action Models](https://arxiv.org/pdf/2506.09937.pdf) | arXiv 2025 |  |
-| [A Self-Correcting Vision-Language-Action Model for Fast and Slow System Manipulation](https://arxiv.org/pdf/2405.17418.pdf) | arXiv 2024 |  |
-| [Roboreflect: Robotic Reflective Reasoning for Grasping Ambiguous Condition Objects](https://arxiv.org/pdf/2501.09307.pdf) | arXiv 2025 |  |
-| [Robofac: A Comprehensive Framework for Robotic Failure Analysis and Correction](https://arxiv.org/pdf/2505.12224.pdf) | arXiv 2025 |  |
-| [DoReMi: Grounding Language Model by Detecting and Recovering from Plan-Execution Misalignment](https://ieeexplore.ieee.org/document/10465874) | IROS 2024 |  |
-| [Errors are Useful Prompts: Instruction Guided Task Programming with Verifier-Assisted Iterative Prompting](https://arxiv.org/pdf/2303.14100.pdf) | arXiv 2023 |  |
-| [RePlan: Robotic Replanning with Perception and Language Models](https://arxiv.org/pdf/2401.04157.pdf) | arXiv 2024 | https://github.com/aspuru-guzik-group/replan |
-| [Self-Correcting Quadratic Programming-Based Robot Control](https://ieeexplore.ieee.org/document/10298130) | IEEE T-SMC: Systems 2023 |  |
-| [Failure Identification and Recovery Framework for a Planar Reconfigurable Cable Driven Parallel Robot](https://www.sciencedirect.com/science/article/pii/S1474667022033252) | IFAC PapersOnLine 2022 |  |
-| [Failure Handling of Robotic Pick and Place Tasks with Multimodal Cues under Partial Object Occlusion](https://www.frontiersin.org/articles/10.3389/fnbot.2021.570507/full) | Frontiers in Neurorobotics 2021 |  |
-| [A Unified Framework for Real-Time Failure Handling in Robotics Using Vision-Language Models, Reactive Planner and Behavior Trees](https://arxiv.org/pdf/2503.15202.pdf) | arXiv 2025 |  |
-| [Model-Based Runtime Monitoring with Interactive Imitation Learning](https://ieeexplore.ieee.org/document/10465009) | ICRA 2024 |  |
-| [Asking for Help: Failure Prediction in Behavioral Cloning through Value Approximation](https://ieeexplore.ieee.org/document/10080003) | ICRA 2023 |  |
-| [Steering Your Generalists: Improving Robotic Foundation Models via Value Guidance](https://proceedings.coralvox.org/v270/nakamoto25a/nakamoto25a.pdf) | CoRL 2025 |  |
-| [Feature Expansive Reward Learning: Rethinking Human Input](https://dl.acm.org/doi/10.1145/3434075.3444535) | HRI 2021 |  |
-| [CoPaL: Corrective Planning of Robot Actions with Large Language Models](https://ieeexplore.ieee.org/document/10390884) | ICRA 2024 |  |
-| [GraspCorrect: Robotic Grasp Correction via Vision-Language Model-Guided Feedback](https://arxiv.org/pdf/2503.15035.pdf) | arXiv 2025 |  |
-| [GeomaniP: Geometric Constraints as General Interfaces for Robot Manipulation](https://arxiv.org/pdf/2501.09783.pdf) | arXiv 2025 |  |
-| [ReplanVLM: Replanning Robotic Tasks with Visual Language Models](https://ieeexplore.ieee.org/document/10446452) | IEEE RA-L 2024 |  |
-| [Can We Detect Failures Without Failure Data? Uncertainty-Aware Runtime Failure Detection for Imitation Learning Policies](https://arxiv.org/pdf/2503.08558.pdf) | arXiv 2025 |  |
-| [CAPE: Corrective Actions from Precondition Errors Using Large Language Models](https://ieeexplore.ieee.org/document/10465046) | ICRA 2024 |  |
-| [ConditionNet: Learning Preconditions and Effects for Execution Monitoring](https://ieeexplore.ieee.org/document/10499348) | IEEE RA-L 2024 |  |
-| [Learning Symbolic Failure Detection for Grasping and Mobile Manipulation Tasks](https://ieeexplore.ieee.org/document/9811972) | IROS 2022 |  |
-| [Multimodal Execution Monitoring for Anomaly Detection During Robot Manipulation](https://ieeexplore.ieee.org/document/7487419) | ICRA 2016 |  |
-| [VLM-in-the-Loop Policy Steering via Latent Alignment](https://openreview.net/forum?id=WG9B0hY7hCb) | ICLR 2025 Workshop |  |
-| [Chat with the Environment: Interactive Multimodal Perception Using Large Language Models](https://ieeexplore.ieee.org/document/10180592) | IROS 2023 |  |
-| [From Mystery to Mastery: Failure Diagnosis for Improving Manipulation Policies](https://arxiv.org/pdf/2503.03768.pdf) | RSS 2025 Workshop |  |
-| [Adaptable Recovery Behaviors in Robotics…BTMG for Failure Management](https://ieeexplore.ieee.org/document/10355723) | IEEE CASE 2024 |  |
-| [Expel: LLM Agents are Experiential Learners](https://ojs.aaaai.org/index.php/AAAI/article/view/26602) | AAAI 2024 |  |
-| [AIC MLLM: Autonomous Interactive Correction MLLM for Robust Robotic Manipulation](https://arxiv.org/pdf/2406.11548.pdf) | arXiv 2024 |  |
-| [Risk-Guided Diffusion: Toward Deploying Robot Foundation Models in Space](https://proceedings.rss.org/v2025/abstracts/abstract2075.html) | RSS 2025 Workshop |  |
-| [HiCRISP: An LLM-based Hierarchical Closed-Loop Robotic Intelligent Self-Correction Planner](https://ieeexplore.ieee.org/document/10385672) | CAC 2024 |  |
-| Pre-Emptive Action Revision by Environmental Feedback for Embodied Instruction Following Agents | CoRL 2024 |  |
-| [Multimodal Detection and Classification of Robot Manipulation Failures](https://ieeexplore.ieee.org/document/10084679) | IEEE RA-L 2023 |  |
-| [FinoNet: A Deep Multimodal Sensor Fusion Framework for Manipulation Failure Detection](https://ieeexplore.ieee.org/document/9635264) | IROS 2021 |  |
-| [Multi-Task Interactive Robot Fleet Learning with Visual World Models](https://proceedings.coralvox.org/v270/liu25a/liu25a.pdf) | CoRL 2025 |  |
-| [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Voyager_An_Open-Ended_Embodied_Agent_With_Large_Language_Models_CVPR_2024_paper.pdf) | TMLR 2024 |  |
-| [Uniform Learning from Demonstrations, Corrections, and Preferences](https://arxiv.org/pdf/2207.03395.pdf) | arXiv 2024 |  |
-| [Learning Human Objectives from Sequences of Physical Corrections](https://ieeexplore.ieee.org/document/9382428) | ICRA 2021 |  |
-| [Toward Grounded Commonsense Reasoning](https://ieeexplore.ieee.org/document/10465082) | ICRA 2024 |  |
-| [Bebop: Combining Reactive Planning and Bayesian Optimization for Robotic Manipulation](https://ieeexplore.ieee.org/document/10446462) | ICRA 2024 |  |
-| [Unpacking Failure Modes of Generative Policies: Runtime Monitoring of Consistency & Progress](https://proceedings.coralvox.org/v270/agia25a/agia25a.pdf) | CoRL 2025 |  |
+| [Inner Monologue: Embodied Reasoning Through Planning with Language Models](https://arxiv.org/pdf/2207.05608) | CoRL 2023 | https://innermonologue.github.io/ |
+| [Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks](https://arxiv.org/pdf/2503.21696.pdf) | arXiv 2025 | https://embodied-reasoner.github.io/ |
+| [Overcoming Reward Model Noise in Instruction-Guided Reinforcement Learning](https://arxiv.org/abs/2409.15922v1) | arXiv 2024 | https://anonymous.4open.science/r/Official-Overcoming-Reward-Noise-in-Instruction-Guided-RL-E9B6 |
+| [Safe: Multitask Failure Detection for Vision-Language-Action Models](https://arxiv.org/pdf/2506.09937) | arXiv 2025 | https://vla-safe.github.io/ |
+| [A Self-Correcting Vision-Language-Action Model for Fast and Slow System Manipulation](https://arxiv.org/pdf/2405.17418) | arXiv 2024 | https://sapien.ucsd.edu/browse |
+| [Roboreflect: Robotic Reflective Reasoning for Grasping Ambiguous Condition Objects](https://arxiv.org/pdf/2501.09307) | arXiv 2025 | - |
+| [Robofac: A Comprehensive Framework for Robotic Failure Analysis and Correction](https://arxiv.org/pdf/2505.12224) | arXiv 2025 | https://github.com/MINT-SJTU/RoboFAC |
+| [DoReMi: Grounding Language Model by Detecting and Recovering from Plan-Execution Misalignment](https://arxiv.org/pdf/2307.00329) | IROS 2024 | https://sites.google.com/view/doremi-paper |
+| [Errors are Useful Prompts: Instruction Guided Task Programming with Verifier-Assisted Iterative Prompting](https://arxiv.org/pdf/2303.14100) | arXiv 2023 | https://ac-rad.github.io/clairify/ |
+| [RePlan: Robotic Replanning with Perception and Language Models](https://arxiv.org/pdf/2401.04157) | arXiv 2024 | https://replan-lm.github.io/replan.github.io/ |
+| [Self-Correcting Quadratic Programming-Based Robot Control](https://ieeexplore.ieee.org/abstract/document/10102575) | IEEE T-SMC: Systems 2023 | [Video](https://youtu.be/cA-_SKoO_9c) |
+| [Failure Identification and Recovery Framework for a Planar Reconfigurable Cable Driven Parallel Robot](https://www.sciencedirect.com/science/article/pii/S2405896322028543) | IFAC PapersOnLine 2022 | - |
+| [Failure Handling of Robotic Pick and Place Tasks with Multimodal Cues under Partial Object Occlusion](https://pmc.ncbi.nlm.nih.gov/articles/PMC7982538/pdf/fnbot-15-570507.pdf) | Frontiers in Neurorobotics 2021 | - |
+| [A Unified Framework for Real-Time Failure Handling in Robotics Using Vision-Language Models, Reactive Planner and Behavior Trees](https://arxiv.org/abs/2503.15202) | arXiv 2025 | - |
+| [Model-Based Runtime Monitoring with Interactive Imitation Learning](https://arxiv.org/pdf/2310.17552) | ICRA 2024 | https://ut-austin-rpl.github.io/sirius-runtime-monitor/ |
+| [Asking for Help: Failure Prediction in Behavioral Cloning through Value Approximation](https://arxiv.org/pdf/2302.04334) | ICRA 2023 | - |
+| [Steering Your Generalists: Improving Robotic Foundation Models via Value Guidance](https://arxiv.org/pdf/2410.13816) | CoRL 2025 | https://nakamotoo.github.io/V-GPS |
+| [Feature Expansive Reward Learning: Rethinking Human Input](https://arxiv.org/pdf/2006.13208) | HRI 2021 | https://github.com/andreea7b/FERL |
+| [CoPaL: Corrective Planning of Robot Actions with Large Language Models](https://arxiv.org/pdf/2310.07263) | ICRA 2024 | https://hri-eu.github.io/Loom/ |
+| [GraspCorrect: Robotic Grasp Correction via Vision-Language Model-Guided Feedback](https://arxiv.org/pdf/2503.15035) | arXiv 2025 | - |
+| [GeomaniP: Geometric Constraints as General Interfaces for Robot Manipulation](https://arxiv.org/pdf/2501.09783) | arXiv 2025 | http://geoconstraintmanip.github.io/ |
+| [ReplanVLM: Replanning Robotic Tasks with Visual Language Models](https://arxiv.org/pdf/2407.21762) | IEEE RA-L 2024 | [Video](https://youtu.be/NPk2pWKazJc) |
+| [Can We Detect Failures Without Failure Data? Uncertainty-Aware Runtime Failure Detection for Imitation Learning Policies](https://arxiv.org/pdf/2503.08558) | arXiv 2025 | https://cxu-tri.github.io/FAIL-Detect-Website/ |
+| [CAPE: Corrective Actions from Precondition Errors Using Large Language Models](https://arxiv.org/pdf/2211.09935) | ICRA 2024 | https://shreyas-s-raman.github.io/CAPE/ |
+| [ConditionNet: Learning Preconditions and Effects for Execution Monitoring](https://arxiv.org/pdf/2502.01167) | IEEE RA-L 2024 | https://dsliwowski1.github.io/ConditionNET_page |
+| [Learning Symbolic Failure Detection for Grasping and Mobile Manipulation Tasks](https://ieeexplore.ieee.org/document/9982223) | IROS 2022 | - |
+| [Multimodal Execution Monitoring for Anomaly Detection During Robot Manipulation](https://ieeexplore.ieee.org/document/7487160) | ICRA 2016 | - |
+| [From Foresight to Forethought: VLM-In-the-Loop Policy Steering via Latent Alignment](https://arxiv.org/pdf/2502.01828) | ICLR 2025 Workshop | https://yilin-wu98.github.io/forewarn/ |
+| [Chat with the Environment: Interactive Multimodal Perception Using Large Language Models](https://arxiv.org/pdf/2303.08268) | IROS 2023 | https://matcha-agent.github.io/ |
+| [From Mystery to Mastery: Failure Diagnosis for Improving Manipulation Policies](https://arxiv.org/pdf/2412.02818) | RSS 2025 Workshop | https://somsagar07.github.io/RoboMD/ |
+| [Adaptable Recovery Behaviors in Robotics…BTMG for Failure Management](https://arxiv.org/pdf/2404.06129) | IEEE CASE 2024 | - |
+| [Expel: LLM Agents are Experiential Learners](https://arxiv.org/pdf/2308.10144) | AAAI 2024 | https://andrewzh112.github.io/expel |
+| [AIC MLLM: Autonomous Interactive Correction MLLM for Robust Robotic Manipulation](https://arxiv.org/pdf/2406.11548) | arXiv 2024 | https://sites.google.com/view/aic-mllm |
+| [Risk-Guided Diffusion: Toward Deploying Robot Foundation Models in Space](https://arxiv.org/pdf/2506.17601) | RSS 2025 Workshop | - |
+| [HiCRISP: An LLM-based Hierarchical Closed-Loop Robotic Intelligent Self-Correction Planner](https://arxiv.org/pdf/2309.12089) | CAC 2024 | https://ming-bot.github.io/HiCRISP.github.io |
+| [Multimodal Detection and Classification of Robot Manipulation Failures](https://ieeexplore.ieee.org/document/10372079) | IEEE RA-L 2023 | - |
+| [FinoNet: A Deep Multimodal Sensor Fusion Framework for Manipulation Failure Detection](https://arxiv.org/pdf/2011.05817) | IROS 2021 | https://github.com/ardai/fino-net |
+| [Multi-Task Interactive Robot Fleet Learning with Visual World Models](https://arxiv.org/pdf/2410.22689) | CoRL 2025 | https://ut-austin-rpl.github.io/sirius-fleet |
+| [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/pdf/2305.16291) | TMLR 2024 | https://voyager.minedojo.org/ |
+| [Uniform Learning from Demonstrations, Corrections, and Preferences](https://arxiv.org/pdf/2207.03395v2) | arXiv 2024 | [Video](https://youtu.be/FSUJsTYvEKU) |
+| [Learning Human Objectives from Sequences of Physical Corrections](https://arxiv.org/pdf/2104.00078) | ICRA 2021 | - |
+| [Toward Grounded Commonsense Reasoning](https://arxiv.org/pdf/2306.08651) | ICRA 2024 | https://minaek.github.io/grounded_commonsense_reasoning/ |
+| [Bebop: Combining Reactive Planning and Bayesian Optimization for Robotic Manipulation](https://arxiv.org/pdf/2310.00971) | ICRA 2024 | https://github.com/jstyrud/BeBOP |
+| [Unpacking Failure Modes of Generative Policies: Runtime Monitoring of Consistency & Progress](https://arxiv.org/pdf/2410.04640) | CoRL 2025 | https://sites.google.com/stanford.edu/sentinel |
 
 
 
