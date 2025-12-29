@@ -76,25 +76,25 @@ HITL mechanism involves human operators providing judgment and corrective action
 | [Yell at Your Robot: Improving On-the-Fly from Language Corrections](https://arxiv.org/pdf/2403.12910.pdf) | arXiv 2024 | https://yay-robot.github.io/ |
 | [Interactive Robot Learning from Verbal Correction](https://arxiv.org/pdf/2310.17555) | LA@R Workshop 2023 | https://ut-austin-rpl.github.io/olaf/ |
 | [Learning to Learn Faster from Human Feedback with Language Model Predictive Control](https://arxiv.org/pdf/2402.11450) | ICRA Workshop 2024 | https://robot-teaching.github.io/ |
-| [Perception Alignment for Human-Robot Collaboration (SynergAI)](https://ieeexplore.ieee.org/document/10478765) | ICRA 2025 |  |
+| [SYNERGAI: Perception Alignment for Human-Robot Collaboration](https://arxiv.org/pdf/2409.15684) | ICRA 2025 | https://synerg-ai.github.io/ |
 | [Online Imitation Learning for Manipulation via Decaying Relative Correction](https://arxiv.org/pdf/2503.15368.pdf) | arXiv 2025 |  |
-| [Head and Shoulders: Automatic Error Detection in Human-Robot Interaction](https://dl.acm.org/doi/abs/10.1145/3136755.3136805) | ACM ICMI 2017 |  |
-| [Correcting Robot Mistakes in Real Time Using EEG Signals](https://ieeexplore.ieee.org/document/7989407) | ICRA 2017 |  |
-| [Learning to Share Autonomy Across Repeated Interaction](https://arxiv.org/pdf/2108.00123.pdf) | IROS 2021 |  |
-| [Human-in-the-loop Task and Motion Planning for Imitation Learning](https://proceedings.mlr.press/v206/mandlekar23a.html) | CoRL 2023 |  |
-| [Robots That Ask for Help: Uncertainty Alignment for LLM Planners](https://proceedings.mlr.press/v206/ren23a.html) | CoRL 2023 |  |
-| [RT-H: Action Hierarchies Using Language](https://www.roboticsconference.org/rss2024/papers/??) | RSS 2024 |  |
-| [Enhancement of Long Horizon Task Planning via Active and Passive Modification in Large Language Models](https://www.nature.com/articles/s41598-025-07113-z) | Scientific Reports 2025 |  |
-| [Correcting Robot Plans with Natural Language Feedback](https://arxiv.org/pdf/2204.05186.pdf) | arXiv 2022 |  |
-| [Robot Learning on the Job: Human-in-the-loop Autonomy and Learning During Deployment](https://www.roboticsconference.org/rss2023/papers/???.pdf) | RSS 2023 |  |
-| [Learning from Interventions: Human-Robot Interaction as Feedback](https://arxiv.org/pdf/2003.12909.pdf) | RSS 2020 |  |
-| [Human-in-the-loop Imitation Learning Using Remote Teleoperation](https://arxiv.org/pdf/2012.06733.pdf) | arXiv 2020 |  |
-| [ThriftyDAGGER: Budget-Aware Novelty and Risk Gating for Interactive Imitation Learning](https://proceedings.mlr.press/v164/belkhale22a.html) | CoRL 2022 |  |
-| [Learning Preferences for Manipulation Tasks from Online Coactive Feedback](https://journals.sagepub.com/doi/pdf/10.1177/0278364915589289) | IJRR 2015 |  |
-| [Bridging the Human to Robot Dexterity Gap Through Object-Oriented Rewards](https://openaccess.thecvf.com/content/CoRL2024/papers/Guzey_Bridging_the_Human_to_Robot_Dexterity_Gap_Through_Object-Oriented_Rewards_CoRL_2024_paper.pdf) | CoRL Workshop 2024 |  |
-| [Human-in-the-loop Error Detection in Object Organization Task with a Social Robot](https://www.frontiersin.org/articles/10.3389/frobt.2024.1356827/full) | Frontiers in Robotics and AI 2024 |  |
-| [Asking Follow-Up Clarifications to Resolve Ambiguities in Human-Robot Conversation](https://ieeexplore.ieee.org/document/9759016) | HRI 2022 |  |
-| [ConRFT: Reinforced Fine-Tuning Method for VL Models via Consistency Policy](https://arxiv.org/pdf/2502.05450.pdf) | arXiv 2025 |  |
+| [Head and Shoulders: Automatic Error Detection in Human-Robot Interaction](https://dl.acm.org/doi/10.1145/3136755.3136785) | ACM ICMI 2017 |  |
+| [Correcting Robot Mistakes in Real Time Using EEG Signals](https://ieeexplore.ieee.org/document/7989777) | ICRA 2017 | [Video](http://people.csail.mit.edu/delpreto/icra2017eeg) |
+| [Learning to Share Autonomy Across Repeated Interaction](https://arxiv.org/pdf/2107.09650) | IROS 2021 | [Video](https://youtu.be/Plh4t3wQeIA) |
+| [Human-in-the-loop Task and Motion Planning for Imitation Learning](https://arxiv.org/pdf/2310.16014) | CoRL 2023 | https://hitltamp.github.io/ |
+| [Robots That Ask for Help: Uncertainty Alignment for LLM Planners](https://arxiv.org/pdf/2307.01928) | CoRL 2023 | https://robot-help.github.io/ |
+| [RT-H: Action Hierarchies Using Language](https://arxiv.org/pdf/2403.01823) | RSS 2024 | https://rt-hierarchy.github.io/ |
+| [Enhancement of Long Horizon Task Planning via Active and Passive Modification in Large Language Models](https://www.nature.com/articles/s41598-025-91448-4) | Scientific Reports 2025 | - |
+| [Correcting Robot Plans with Natural Language Feedback](https://arxiv.org/pdf/2204.05186.pdf) | arXiv 2022 | https://sites.google.com/view/language-costs |
+| [Robot Learning on the Job: Human-in-the-loop Autonomy and Learning During Deployment](https://arxiv.org/pdf/2211.08416) | RSS 2023 | https://ut-austin-rpl.github.io/sirius/ |
+| [Learning from Interventions: Human-Robot Interaction as Feedback](https://www.roboticsproceedings.org/rss16/p055.pdf) | RSS 2020 | - |
+| [Human-in-the-loop Imitation Learning Using Remote Teleoperation](https://arxiv.org/pdf/2012.06733) | arXiv 2020 | https://sites.google.com/stanford.edu/iwr |
+| [ThriftyDAGGER: Budget-Aware Novelty and Risk Gating for Interactive Imitation Learning](https://arxiv.org/abs/2109.08273) | CoRL 2022 | https://tinyurl.com/thrifty-dagger |
+| [Learning Preferences for Manipulation Tasks from Online Coactive Feedback](https://arxiv.org/pdf/1601.00741) | IJRR 2015 | http://pr.cs.cornell.edu/coactive/ |
+| [Bridging the Human to Robot Dexterity Gap Through Object-Oriented Rewards](https://arxiv.org/pdf/2410.23289) | CoRL Workshop 2024 | https://object-rewards.github.io/ |
+| [Human-in-the-loop Error Detection in Object Organization Task with a Social Robot](https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2024.1356827/full) | Frontiers in Robotics and AI 2024 | - |
+| [Asking Follow-Up Clarifications to Resolve Ambiguities in Human-Robot Conversation](https://ieeexplore.ieee.org/document/9889368) | HRI 2022 | https://github.com/IrmakDogan/Resolving-Ambiguities |
+| [ConRFT: Reinforced Fine-Tuning Method for VL Models via Consistency Policy](https://arxiv.org/pdf/2502.05450.pdf) | arXiv 2025 | https://cccedric.github.io/conrft/ |
 
 ### Model in the Loop
 ![Image Alt Text](figures/4_2.png)
