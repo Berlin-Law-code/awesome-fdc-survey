@@ -165,21 +165,21 @@ RFT enhances robotic manipulation by using feedback from the environment and pas
 | [CO-RFT: Efficient Fine-Tuning of Vision-Language-Action Models through Chunked Offline Reinforcement Learning](https://arxiv.org/pdf/2508.02219) | arXiv 2025 | - |
 | [Improving Vision-Language-Action Model with Online Reinforcement Learning](https://arxiv.org/pdf/2501.16664) | arXiv 2025 | - |
 | [RLDG: Robotic Generalist Policy Distillation via Reinforcement Learning](https://arxiv.org/pdf/2412.09858) | arXiv 2024 | [Video](https://generalist-distillation.github.io/) |
-| [Efficient Online Reinforcement Learning with Offline Data](https://arxiv.org/pdf/2302.02948) | ICML 2023 | [Code](https://github.com/ikostrikov/rlpd) |
-| [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/pdf/2402.03300) | arXiv 2024 | [Code](https://github.com/deepseek-ai/DeepSeek-Math) |
-| [Visual-RFT: Visual Reinforcement Fine Tuning](https://arxiv.org/pdf/2503.01785) | arXiv 2025 | https://github.com/Liuziyu77/Visual-RFT |
-| [Perception-R1: Pioneering Perception Policy with Reinforcement Learning](https://arxiv.org/pdf/2504.07954) | arXiv 2025 | https://github.com/linkangheng/PR1 |
-| [R1-VL: Learning to Reason with Multimodal Large Language Models via Step-wise Group Relative Policy Optimization](https://arxiv.org/pdf/2503.12937) | arXiv 2025 | https://github.com/jingyi0000/R1-VL |
-| [Multi-SpatialMLLM: Multi-frame Spatial Understanding with Multi-modal Large Language Models](https://arxiv.org/pdf/2505.17015) | arXiv 2025 | https://runsenxu.com/projects/Multi-SpatialMLLM |
-| [Embodied-R: Collaborative Framework for Activating Embodied Spatial Reasoning in Foundation Models via Reinforcement Learning](https://arxiv.org/pdf/2504.12680) | ACM MM 2025 | [Code](https://embodiedcity.github.io/Embodied-R/) |
+| [Efficient Online Reinforcement Learning with Offline Data](https://arxiv.org/pdf/2302.02948) | ICML 2023 | [Project](https://github.com/ikostrikov/rlpd) |
+| [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/pdf/2402.03300) | arXiv 2024 | [Project](https://github.com/deepseek-ai/DeepSeek-Math) |
+| [Visual-RFT: Visual Reinforcement Fine Tuning](https://arxiv.org/pdf/2503.01785) | arXiv 2025 | [Project](https://github.com/Liuziyu77/Visual-RFT) |
+| [Perception-R1: Pioneering Perception Policy with Reinforcement Learning](https://arxiv.org/pdf/2504.07954) | arXiv 2025 | [Project](https://github.com/linkangheng/PR1) |
+| [R1-VL: Learning to Reason with Multimodal Large Language Models via Step-wise Group Relative Policy Optimization](https://arxiv.org/pdf/2503.12937) | arXiv 2025 | [Project](https://github.com/jingyi0000/R1-VL） |
+| [Multi-SpatialMLLM: Multi-frame Spatial Understanding with Multi-modal Large Language Models](https://arxiv.org/pdf/2505.17015) | arXiv 2025 | [Project](https://runsenxu.com/projects/Multi-SpatialMLLM） |
+| [Embodied-R: Collaborative Framework for Activating Embodied Spatial Reasoning in Foundation Models via Reinforcement Learning](https://arxiv.org/pdf/2504.12680) | ACM MM 2025 | [Project](https://embodiedcity.github.io/Embodied-R/) |
 | [ManipLVM-R1: Reinforcement Learning for Reasoning in Embodied Manipulation with Large Vision-Language Models](https://arxiv.org/pdf/2505.16517) | arXiv 2025 | - |
 | [Residual Reinforcement Learning for Robot Control](https://ieeexplore.ieee.org/abstract/document/8794127) | ICRA 2019 | [Project](https://residualrl.github.io/) |
-| [Track2Act: Predicting Point Tracks from Internet Videos enables Generalizable Robot Manipulation](https://arxiv.org/pdf/2405.01527) | ECCV 2024 | https://homangab.github.io/track2act/ |
+| [Track2Act: Predicting Point Tracks from Internet Videos enables Generalizable Robot Manipulation](https://arxiv.org/pdf/2405.01527) | ECCV 2024 | [Project](https://homangab.github.io/track2act/） |
 | [Teach a Robot to FISH: Versatile Imitation from One Minute of Demonstrations](https://arxiv.org/pdf/2303.01497) | RSS 2023 | [Project](https://fast-imitation.github.io/) |
-| [See to Touch: Learning Tactile Dexterity through Visual Incentives](https://arxiv.org/pdf/2309.12300) | ICRA 2024 | [Code](https://see-to-touch.github.io/) |
+| [See to Touch: Learning Tactile Dexterity through Visual Incentives](https://arxiv.org/pdf/2309.12300) | ICRA 2024 | [Project](https://see-to-touch.github.io/) |
 | [Self-improving Vision-Language-Action Models with Data Generation via Residual RL](https://arxiv.org/pdf/2511.00091) | arXiv 2025 | [Video](https://wenlixiao.com/self-improve-VLA-PLD) |
-| [TransIC: Sim-to-real Policy Transfer by Learning from Online Correction](https://arxiv.org/pdf/2405.10315) | CoRL 2025 | https://transic-robot.github.io/ |
-| [Compliant Residual DAgger: Improving Real-World Contact-Rich Manipulation with Human Corrections](https://arxiv.org/pdf/2506.16685) | arXiv 2025 | [Code](https://compliant-residual-dagger.github.io/) |
+| [TransIC: Sim-to-real Policy Transfer by Learning from Online Correction](https://arxiv.org/pdf/2405.10315) | CoRL 2025 | [Project](https://transic-robot.github.io/） |
+| [Compliant Residual DAgger: Improving Real-World Contact-Rich Manipulation with Human Corrections](https://arxiv.org/pdf/2506.16685) | arXiv 2025 | [Project](https://compliant-residual-dagger.github.io/) |
 
 ### Matching Failures to Recovery Strategies
 ![Image Alt Text](figures/4_4.png)
